@@ -22,8 +22,8 @@ export default {
       quote: "Alıntı",
     },
     backlinks: {
-      title: "Geri Bağlantılar",
-      noBacklinksFound: "Geri bağlantı mevcut değil",
+      title: "Bu sahifeye bağlantı verenler",
+      noBacklinksFound: "Bağlantı mevcut değil",
     },
     themeToggle: {
       lightMode: "Gündüz modu",
