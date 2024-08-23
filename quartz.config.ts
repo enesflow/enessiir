@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🕊️ Enes Şiir",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "tr-TR",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "enessiir.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -33,9 +33,9 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          secondary: "#2ebd88", // Emerald 500 (slightly darker than #34d399)
+          tertiary: "#a0e2c0", // Emerald 200 (slightly darker than #a7f3d0)
+                  highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -44,8 +44,8 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#059669", // Emerald 600
+          tertiary: "#6ee7b7", // Emerald 300
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
