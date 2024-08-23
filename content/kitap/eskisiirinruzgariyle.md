@@ -12,3 +12,4 @@ Bir [[sair/beyatli|Yahyâ Kemâl]] kitabı
 - [[siir/selimname|Selimnâme]]
 - [[siir/baslayis|Başlayış]]
 - [[siir/sefer|Sefer]]
+- [[siir/caldiran|Çaldıran]]
