@@ -15,7 +15,39 @@ interface Item {
 type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
-const encoder = (str: string) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/)
+// make this more efficient using regex, e.g. replace both "â" and "ā" with "a" instead of one by one
+const accentCharactersRegexes = {
+  a: /[âāÂĀ]/g,
+  u: /[ûūÛŪ]/g,
+  i: /[îīÎĪ]/g,
+  o: /[ôōÔŌ]/g,
+  e: /[êēÊĒ]/g,
+  apostrophe: /['’]/g,
+}
+const characterReplacements = {
+  a: "[aâāAÂĀ]",
+  u: "[uûūUÛŪ]",
+  i: "[iîīIÎĪ]",
+  o: "[oôōOÔŌ]",
+  e: "[eêēEÊĒ]",
+  "'": "['’]",
+}
+
+function replaceAccent(str: string) {
+  return str
+    .replace(accentCharactersRegexes.a, "a")
+    .replace(accentCharactersRegexes.u, "u")
+    .replace(accentCharactersRegexes.i, "i")
+    .replace(accentCharactersRegexes.o, "o")
+    .replace(accentCharactersRegexes.e, "e")
+    .replace(accentCharactersRegexes.apostrophe, "")
+}
+/* const encoder = (str: string) => str.
+  toLowerCase()
+  .split(/([^a-z]|[^\x00-\x7F])/) */
+// make the encoder replace the accent characters with their non-accented counterparts
+// this is a very efficient way to do it, but it's not very readable
+const encoder = (str: string) => replaceAccent(str.toLowerCase()).split(/([^a-z]|[^\x00-\x7F])/)
 let index = new FlexSearch.Document<Item>({
   charset: "latin:extra",
   encode: encoder,
@@ -88,8 +120,14 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
     .map((tok) => {
       // see if this tok is prefixed by any search terms
       for (const searchTok of tokenizedTerms) {
-        if (tok.toLowerCase().includes(searchTok.toLowerCase())) {
-          const regex = new RegExp(searchTok.toLowerCase(), "gi")
+        if (replaceAccent(tok).toLowerCase().includes(searchTok.toLowerCase())) {
+          function replace(searchTok: string) {
+            return searchTok
+              .split("")
+              .map((char) => (characterReplacements as any)[char] ?? char)
+              .join("'?")
+          }
+          const regex = new RegExp(replace(searchTok), "gi")
           return tok.replace(regex, `<span class="highlight">$&</span>`)
         }
       }
