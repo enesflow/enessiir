@@ -3,7 +3,7 @@ title: '"{{title}}" ne demek?'
 ---
 
 ## {{title}}
-([[arapca|Arapça]]) Ağır
+([[arapca|Arapça]]) -
 
 ---
 *Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/{{title}})*
