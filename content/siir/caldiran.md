@@ -37,32 +37,32 @@ Tebrîz’e [[kelime/reh#Reh|reh]]-[[kelime/numa#Nümâ|nümâ]]-yı [[kelime/in
 
 #### Günümüz Türkçesi'yle
 
-Her nûr dolu tûğ verirken hücûma şan
-Her esirgenmeyen kılıç parıldardı saçıp kan 
+*Her nûr dolu tûğ verirken hücûma şan
+Her esirgenmeyen kılıç parıldardı saçıp kan*
 
-Kıyâmet gününü karıştırdın ey kader
-Andırdı mahşer gününü şimdi imtihan
+*Kıyâmet gününü karıştırdın ey kader
+Andırdı mahşer gününü şimdi imtihan*
 
-Saldırdı hesapsız bir öç duygusu ile fena Râfızî
-Tâlih göründü bize sol kolda pek yaman
+*Saldırdı hesapsız bir öç duygusu ile fena Râfızî
+Tâlih göründü bize sol kolda pek yaman*
 
-Boğuldu kana Rûmeli Beylerbeyi’yle asker
-Üç Malkoçoğlu fedâ etti bir bir üç can
+*Boğuldu kana Rûmeli Beylerbeyi’yle asker
+Üç Malkoçoğlu fedâ etti bir bir üç can*
 
-Uğrunda her cihada atılmış kararlı askerin
-Hak ettiği bu felâket midir ey Yardım Umulan
+*Uğrunda her cihada atılmış kararlı askerin
+Hak ettiği bu felâket midir ey Yardım Umulan*
 
-Her yanda kan içinde bu kargaşadan beri
-Hiç esmeyen fetihler yeli esti ansızın bir an
+*Her yanda kan içinde bu kargaşadan beri
+Hiç esmeyen fetihler yeli esti ansızın bir an*
 
-Sağ kolda bozdu bozguna uğrattı düşmanı
-Aslan gibi bir taarruzu sevk eyleyen Sinan
+*Sağ kolda bozdu bozguna uğrattı düşmanı
+Aslan gibi bir taarruzu sevk eyleyen Sinan*
 
-Düşman şâhına karşı zafer bildiren rüzgar
-İndirdi yıldırım gibi bir darbe ki kocaman
+*Düşman şâhına karşı zafer bildiren rüzgar
+İndirdi yıldırım gibi bir darbe ki kocaman*
 
-Bindiği at kıldı Acem tâc ve tahtını
-Tâ arşa astı kılıcını Sultan Selîm Han
+*Bindiği at kıldı Acem tâc ve tahtını
+Tâ arşa astı kılıcını Sultan Selîm Han*
 
-Zafer şânına kavuşup sarhoş oldu tûğlar
-Tebrîz’e yol gösteren dizgin oldu tûğlar
+*Zafer şânına kavuşup sarhoş oldu tûğlar
+Tebrîz’e yol gösteren dizgin oldu tûğlar*
