@@ -6,3 +6,6 @@ Bir [[-]] şiiri
 
 ---
 
+## {{title}}
+
+## Günümüz Türkçesi'yle
