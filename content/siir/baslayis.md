@@ -4,6 +4,8 @@ title: Başlayış
 
 Bir [[sair/beyatli|Yahyâ Kemâl]] şiiri
 
+---
+
 -1514-
 [[kelime/eflak#Eflâk|Eflâk]]den o [[kelime/dem#Dem|dem]] ki [[kelime/peyam#Peyâm|peyâm]]-ı kader gelür
 [[kelime/gus#Gûş|Gûş]]-î cihâna velvele-î [[kelime/baluper#Bâl ü per|bâl ü per]] gelür

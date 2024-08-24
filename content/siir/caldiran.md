@@ -4,6 +4,8 @@ title: Çaldıran
 
 Bir [[sair/beyatli|Yahyâ Kemâl]] şiiri
 
+---
+
 -1514-
 Her [[kelime/tug#Tuğ|tûğ]]-ı [[kelime/pur#Pür|pür]]-[[kelime/furug#Fürûğ|fürûg]] verirken hücûma şan  
 Her [[kelime/tig#Tîg|tîg]]-i bî-[[kelime/dirig#Dirîg|dirîg]] parıldardı [[kelime/hun#Hun|hun]]-[[kelime/fesan#Feşan|feşan]]  

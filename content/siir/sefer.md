@@ -4,6 +4,8 @@ title: Sefer
 
 Bir [[sair/beyatli|Yahyâ Kemâl]] şiiri
 
+---
+
 -1514-
 Tebrîz'e doğru çıktı sefer [[kelime/sahrah#Şâhrâh|şâhrâh]]ına
 [[kelime/ervah#Ervâh|Ervâh]] [[kelime/peyrev#Peyrev|peyrev]] oldu cihan pâdişâhına
