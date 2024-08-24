@@ -3,7 +3,7 @@ title: '"Dirîg" ne demek?'
 ---
 
 ## Dirîg
-([[farsca|Farsça]]) Kıyamama
+([[farsca|Farsça]]) Esirgememe, kıyamama
 
 ---
 *Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/diriğ)*
