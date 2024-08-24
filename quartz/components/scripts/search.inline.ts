@@ -43,11 +43,11 @@ function replaceAccent(str: string) {
     .replace(accentCharactersRegexes.apostrophe, "")
 }
 /* const encoder = (str: string) => str.
-  toLowerCase()
+  toLocaleLowerCase("tr-TR")
   .split(/([^a-z]|[^\x00-\x7F])/) */
 // make the encoder replace the accent characters with their non-accented counterparts
 // this is a very efficient way to do it, but it's not very readable
-const encoder = (str: string) => replaceAccent(str.toLowerCase()).split(/([^a-z]|[^\x00-\x7F])/)
+const encoder = (str: string) => replaceAccent(str.toLocaleLowerCase("tr-TR")).split(/([^a-z]|[^\x00-\x7F])/)
 let index = new FlexSearch.Document<Item>({
   charset: "latin:extra",
   encode: encoder,
@@ -97,7 +97,7 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
   let endIndex = tokenizedText.length - 1
   if (trim) {
     const includesCheck = (tok: string) =>
-      tokenizedTerms.some((term) => tok.toLowerCase().startsWith(term.toLowerCase()))
+      tokenizedTerms.some((term) => tok.toLocaleLowerCase("tr-TR").startsWith(term.toLocaleLowerCase("tr-TR")))
     const occurrencesIndices = tokenizedText.map(includesCheck)
 
     let bestSum = 0
@@ -120,9 +120,10 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
     .map((tok) => {
       // see if this tok is prefixed by any search terms
       for (const searchTok of tokenizedTerms) {
-        if (replaceAccent(tok).toLowerCase().includes(searchTok.toLowerCase())) {
+        const lower = searchTok.toLocaleLowerCase("tr-TR")
+        if (replaceAccent(tok).toLocaleLowerCase("tr-TR").includes(lower)) {
           function replace(searchTok: string) {
-            return searchTok
+            return searchTok.toLocaleLowerCase("tr-TR")
               .split("")
               .map((char) => (characterReplacements as any)[char] ?? char)
               .join("'?")
@@ -155,7 +156,7 @@ function highlightHTML(searchTerm: string, el: HTMLElement) {
   const highlightTextNodes = (node: Node, term: string) => {
     if (node.nodeType === Node.TEXT_NODE) {
       const nodeText = node.nodeValue ?? ""
-      const regex = new RegExp(term.toLowerCase(), "gi")
+      const regex = new RegExp(term.toLocaleLowerCase("tr-TR"), "gi")
       const matches = nodeText.match(regex)
       if (!matches || matches.length === 0) return
       const spanContainer = document.createElement("span")
@@ -250,7 +251,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       const searchBarOpen = container?.classList.contains("active")
       searchBarOpen ? hideSearch() : showSearch("basic")
       return
-    } else if (e.shiftKey && (e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "k") {
+    } else if (e.shiftKey && (e.ctrlKey || e.metaKey) && e.key.toLocaleLowerCase("tr-TR") === "k") {
       // Hotkey to open tag search
       e.preventDefault()
       const searchBarOpen = container?.classList.contains("active")
@@ -328,7 +329,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
     return tags
       .map((tag) => {
-        if (tag.toLowerCase().includes(term.toLowerCase())) {
+        if (tag.toLocaleLowerCase("tr-TR").includes(term.toLocaleLowerCase("tr-TR"))) {
           return `<li><p class="match-tag">#${tag}</p></li>`
         } else {
           return `<li><p>#${tag}</p></li>`
