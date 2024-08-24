@@ -6,6 +6,8 @@ Bir [[sair/beyatli|Yahyâ Kemâl]] şiiri
 
 ---
 
+## Çaldıran
+
 -1514-
 Her [[kelime/tug#Tuğ|tûğ]]-ı [[kelime/pur#Pür|pür]]-[[kelime/furug#Fürûğ|fürûg]] verirken hücûma şan  
 Her [[kelime/tig#Tîg|tîg]]-i bî-[[kelime/dirig#Dirîg|dirîg]] parıldardı [[kelime/hun#Hun|hun]]-[[kelime/fesan#Feşan|feşan]]  
@@ -37,7 +39,7 @@ Tâ arşa astı tîgıni Sultan Selîm Han
 *[[kelime/sermest#Sermest|Sermest]]-i câm-ı [[kelime/vuslat#Vuslat|vuslat]]-ı şân oldu tûğlar  
 Tebrîz’e [[kelime/reh#Reh|reh]]-[[kelime/numa#Nümâ|nümâ]]-yı [[kelime/inan#'İnân|'inân]] oldu tûğlar*
 
-#### Günümüz Türkçesi'yle
+## Günümüz Türkçesi'yle
 
 *Her nûr dolu tûğ verirken hücûma şan
 Her esirgenmeyen kılıç parıldardı saçıp kan*

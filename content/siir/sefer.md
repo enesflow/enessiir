@@ -6,6 +6,8 @@ Bir [[sair/beyatli|Yahyâ Kemâl]] şiiri
 
 ---
 
+## Sefer
+
 -1514-
 Tebrîz'e doğru çıktı sefer [[kelime/sahrah#Şâhrâh|şâhrâh]]ına
 [[kelime/ervah#Ervâh|Ervâh]] [[kelime/peyrev#Peyrev|peyrev]] oldu cihan pâdişâhına

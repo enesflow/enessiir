@@ -6,6 +6,8 @@ Bir [[sair/rasih|Râsih]] şiiri
 
 ---
 
+## Müjgân Müjgân Üstüne
+
 Süzme [[kelime/cesm#Çeşm|çeşm]]in gelmesin [[kelime/mujgan#Müjgân|müjgân]] müjgân üstüne
 [[kelime/urmak#Urmak|Urma]] [[kelime/zahm#Zahm|zahm]]-ı [[kelime/sine#Sîne|sîne]]me [[kelime/peykan#Peykân|peykân]] peykân üstüne
 [[kelime/rize#Rîze|Rîze]]-i elmâs eker her açtığı zahma o [[kelime/suh#Şûh|şûh]]

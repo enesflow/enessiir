@@ -6,6 +6,8 @@ Bir [[sair/beyatli|Yahyâ Kemâl]] şiiri
 
 ---
 
+## Selimnâme
+
 Devr-i Sultan Selîm'i yazmak içün
 [[kelime/seyf#Seyf|Seyf]]-i [[kelime/meslul#Meslûl|meslûl]] kıldı [[kelime/hame#Hâme|hâme]]sini
 Halk [[sair/beyatli|Yahyâ Kemâl]]'e rahmet okur

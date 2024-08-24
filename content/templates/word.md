@@ -1,5 +1,5 @@
 ---
-title: '"{{title}}" ne demek?'
+title: "\"{{title}}\" ne demek?"
 ---
 
 ## {{title}}
