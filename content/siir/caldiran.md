@@ -61,7 +61,7 @@ Aslan gibi bir taarruzu sevk eyleyen Sinan*
 *Düşman şâhına karşı zafer bildiren rüzgar
 İndirdi yıldırım gibi bir darbe ki kocaman*
 
-*Bindiği at kıldı Acem tâc ve tahtını
+*At gibi yere serdi Acem tâc ve tahtını
 Tâ arşa astı kılıcını Sultan Selîm Han*
 
 *Zafer şânına kavuşup sarhoş oldu tûğlar
