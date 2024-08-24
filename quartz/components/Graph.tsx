@@ -61,13 +61,16 @@ export default ((opts?: GraphOptions) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
-      <div class={classNames(displayClass, "graph")}>
+      <div class={classNames(displayClass, "graph")}
+      id="global-graph-icon">
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
-        <div class="graph-outer">
-          <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
+        <div
+          class="graph-outer"
+        >
+          {/* <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div> */}
           <svg
-            version="1.1"
             id="global-graph-icon"
+            version="1.1"
             xmlns="http://www.w3.org/2000/svg"
             xmlnsXlink="http://www.w3.org/1999/xlink"
             x="0px"
