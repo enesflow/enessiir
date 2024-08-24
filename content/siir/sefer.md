@@ -43,8 +43,8 @@ Ruhlar yoldaş oldu cihan pâdişâhına*
 *Gazi askerler görünce sürerken at
 Boyun eğdiler aslanlar gibi sert bakışına*
 
-*Baştan başa cihat kılıcı kuşanmış ümmettir
-Çıkan âlemi koruyanınların makâmına*
+*Baştan başa cihat kılıcı kuşanmış ümmetin
+Oturanı budur âlemi koruyanınların tahtına*
 
 *Dize getirip tahtına doğuyla batıyı
 Bir devlet armağan edecektir ilâhına*
