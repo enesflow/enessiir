@@ -2,7 +2,7 @@
 title: Uyan!
 ---
 
-Bir [[sair/akifersoy|Mehmet âkif Ersoy]] şiiri
+Bir [[sair/akifersoy|Mehmet Âkif Ersoy]] şiiri
 
 ---
 
