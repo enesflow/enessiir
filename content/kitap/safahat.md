@@ -17,3 +17,5 @@ Bir [[sair/akifersoy|Mehmet Âkif Ersoy]]
 ## Şiirler
 ### Hâtıralar
 - [[siir/uyan|Uyan!]]
+### Gölgeler
+- [[siir/bulbul|Bülbül]]
