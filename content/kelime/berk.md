@@ -6,4 +6,4 @@ title: '"Berk" ne demek?'
 ([[arapca|Arapça]]) Şimşek
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/berk)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/berk)*

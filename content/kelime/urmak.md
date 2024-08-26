@@ -6,4 +6,4 @@ title: '"Urmak" ne demek?'
 ([[eskiturk|Eski Türkçe]]) Vurmak
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Urmak)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Urmak)*

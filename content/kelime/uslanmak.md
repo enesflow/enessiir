@@ -6,4 +6,4 @@ title: '"Uslanmak" ne demek?'
 ([[ortaturk|Orta Türkçe]]) Aklı başına gelmek, akıllanmak
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Uslanmak)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Uslanmak)*

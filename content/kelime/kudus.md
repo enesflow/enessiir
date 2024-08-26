@@ -6,4 +6,4 @@ title: '"Kudüs" ne demek?'
 ([[arapca|Arapça]]) Mukaddes ve mübârek olma, mukaddeslik, kutsallık
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/kuds)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/kuds)*

@@ -6,4 +6,4 @@ title: '"İnhimâk" ne demek?'
 ([[arapca|Arapça]] **hemk**'den)  Bir şeyin üzerine büyük bir istekle düşme, fazla düşkünlük
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/İnhimâk)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/İnhimâk)*

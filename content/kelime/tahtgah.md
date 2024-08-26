@@ -6,4 +6,4 @@ title: '"Tahtgâh" ne demek?'
 ([[farsca|Farsça]]) Başkent, hükümdar tahtının bulunduğu yer, başşehir, pâyitaht
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/tahtgah)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/tahtgah)*

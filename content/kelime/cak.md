@@ -6,4 +6,4 @@ title: '"Çâk" ne demek?'
 ([[farsca|Farsça]]) Yırtık, yarık
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Çâk)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Çâk)*

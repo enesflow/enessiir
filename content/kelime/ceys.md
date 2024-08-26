@@ -6,4 +6,4 @@ title: '"Ceyş" ne demek?'
 ([[arapca|Arapça]]) Asker, ordu, **Çoğul**: [[kelime/cuyus#Cüyûş|cüyûş]]
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/ceyş)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/ceyş)*

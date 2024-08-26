@@ -6,4 +6,4 @@ title: '"Nâgehan" ne demek?'
 ([[farsca|Farsça]] **nagâh**'tan) Birdenbire, ansızın
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/nagehan)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/nagehan)*

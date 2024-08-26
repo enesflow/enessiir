@@ -6,4 +6,4 @@ title: '"Ervâh" ne demek?'
 ([[arapca|Arapça]] **ruh**'un çoğulu) Ruhlar
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/ervah)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/ervah)*

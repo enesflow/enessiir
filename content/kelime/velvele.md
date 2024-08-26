@@ -6,4 +6,4 @@ title: '"Velvele" ne demek?'
 ([[arapca|Arapça]]) Gürültü, patırtı
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Velvele)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Velvele)*

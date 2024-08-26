@@ -7,4 +7,4 @@ title: '"Peykân" ne demek?'
 1. Okun ucundaki sivri demir, temren, **Teşmil**: Sevgilinin kirpiği
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Peykân)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Peykân)*

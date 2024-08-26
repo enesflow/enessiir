@@ -6,4 +6,4 @@ title: '"Hudâ" ne demek?'
 ([[farsca|Farsça]]) Allah, Tanrı, Cenâbıhak
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/huda)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/huda)*

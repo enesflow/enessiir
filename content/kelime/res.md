@@ -6,4 +6,4 @@ title: "\"Re's\" ne demek?"
 ([[arapca|Arapça]]) Baş, kafa
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/res)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/res)*

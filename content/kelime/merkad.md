@@ -6,4 +6,4 @@ title: '"Merkad" ne demek?'
 ([[arapca|Arapça]] **rükûd**'dan) Mezar, kabir
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/merkat)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/merkat)*

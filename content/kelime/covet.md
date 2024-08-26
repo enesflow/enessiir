@@ -6,4 +6,4 @@ title: '"Covet" ne demek?'
 ([[ingilizce|İngilizce]]) İmrenmek, gıpta etmek
 
 ---
-*Kaynak: [Tureng](https://tureng.com/de/turkisch-englisch/covet)*
+*Menşei: [Tureng](https://tureng.com/de/turkisch-englisch/covet)*

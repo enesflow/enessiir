@@ -6,4 +6,4 @@ title: '"Sermest" ne demek?'
 ([[farsca|Farsça]]) Sarhoş
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Sermest)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Sermest)*

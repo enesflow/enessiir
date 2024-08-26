@@ -6,4 +6,4 @@ title: '"Derk" ne demek?'
 ([[arapca|Arapça]]) Anlama, kavrama, idrâk etme
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/derk)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/derk)*

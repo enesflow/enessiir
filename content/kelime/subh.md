@@ -6,4 +6,4 @@ title: '"Subh" ne demek?'
 ([[arapca|Arapça]]) Sabah vakti, sabah
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Subh)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Subh)*

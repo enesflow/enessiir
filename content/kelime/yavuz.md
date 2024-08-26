@@ -6,4 +6,4 @@ title: '"Yâvuz" ne demek?'
 ([[eskiturk|Eski Türkçe]]) Sert, çetin, yaman
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/yavuz)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/yavuz)*

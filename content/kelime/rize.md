@@ -6,4 +6,4 @@ title: '"Rîze" ne demek?'
 ([[farsca|Farsça]]) Kırıntı, ufak parça, döküntü
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Rîze)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Rîze)*

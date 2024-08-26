@@ -6,4 +6,4 @@ title: '"Vuslat" ne demek?'
 ([[arapca|Arapça]]) Sevdiğine kavuşma
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Vuslat)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Vuslat)*

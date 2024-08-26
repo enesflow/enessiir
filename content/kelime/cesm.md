@@ -6,4 +6,4 @@ title: '"Çeşm" ne demek?'
 ([[farsca|Farsça]]) Göz
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Çeşm)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Çeşm)*

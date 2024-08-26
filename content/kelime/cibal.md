@@ -6,4 +6,4 @@ title: '"Cibâl" ne demek?'
 ([[arapca|Arapça]] **cebel**'in çoğulu) Dağlar
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/cibal)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/cibal)*

@@ -8,4 +8,4 @@ title: '"Sahrâ" ne demek?'
 2. Çöl
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/sahra)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/sahra)*

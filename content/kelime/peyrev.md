@@ -6,4 +6,4 @@ title: '"Peyrev" ne demek?'
 ([[farsca|Farsça]]) (Birinin) Arkasından, izinden giden, (ona) uyan, tâbi olan kimse
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/peyrev)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/peyrev)*

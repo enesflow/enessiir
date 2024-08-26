@@ -6,4 +6,4 @@ title: '"Serhad" ne demek?'
 ([[farsca|Farsça]]-[[arapca|Arapça]]) Sınır boyu, hudut
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/serhat)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/serhat)*

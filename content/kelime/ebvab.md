@@ -6,4 +6,4 @@ title: '"Ebvâb" ne demek?'
 ([[arapca|Arapça]] **bâb**'ın çoğulu) Kapılar
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/ebvab)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/ebvab)*

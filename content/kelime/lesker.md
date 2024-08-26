@@ -6,4 +6,4 @@ title: '"Leşker" ne demek?'
 ([[farsca|Farsça]]) Asker
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/leşker)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/leşker)*

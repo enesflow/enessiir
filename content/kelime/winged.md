@@ -6,4 +6,4 @@ title: '"Winged" ne demek?'
 ([[ingilizce|İngilizce]] **wing**'den) Kanatlı
 
 ---
-*Kaynak: [Tureng](https://tureng.com/de/turkisch-englisch/winged)*
+*Menşei: [Tureng](https://tureng.com/de/turkisch-englisch/winged)*

@@ -6,4 +6,4 @@ title: '"Temâdî" ne demek?'
 ([[arapca|Arapça]] **medâ**'dan) Uzama, sürüp gitme, devam edegelme
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Temâdî)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Temâdî)*

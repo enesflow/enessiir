@@ -6,4 +6,4 @@ title: '"Merd" ne demek?'
 ([[farsca|Farsça]]) Yiğit, cesur (kimse), bahadır, kahraman, şecî
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Merd)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Merd)*

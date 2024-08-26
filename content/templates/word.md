@@ -7,4 +7,4 @@ title: "\"{{title}}\" ne demek?"
 ([[farsca|Farsça]]) 
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/{{title}})*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/{{title}})*

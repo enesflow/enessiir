@@ -6,4 +6,4 @@ title: '"Ravza" ne demek?'
 ([[arapca|Arapça]]) Çayır çimeni, ağacı, suyu bol yer, bahçe
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/ravza)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/ravza)*

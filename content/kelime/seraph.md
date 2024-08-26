@@ -6,4 +6,4 @@ title: '"Seraph" ne demek?'
 ([[ingilizce|İngilizce]]) En yüce meleklerden biri, serafim meleği
 
 ---
-*Kaynak: [Tureng](https://tureng.com/de/turkisch-englisch/seraph)*
+*Menşei: [Tureng](https://tureng.com/de/turkisch-englisch/seraph)*

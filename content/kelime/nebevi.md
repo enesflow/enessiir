@@ -6,4 +6,4 @@ title: '"Nebevî" ne demek?'
 ([[arapca|Arapça]] **nebî**'den) Nebîye, peygambere âit, peygamberle ilgili.
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/nebevi)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/nebevi)*

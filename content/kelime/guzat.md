@@ -6,4 +6,4 @@ title: '"Guzât" ne demek?'
 ([[arapca|Arapça]] **gazi**'nin çoğulu) Gāziler
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/guzat)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/guzat)*

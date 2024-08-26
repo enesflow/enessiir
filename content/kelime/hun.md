@@ -6,4 +6,4 @@ title: '"Hun" ne demek?'
 ([[farsca|Farsça]]) Kan
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/hun)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/hun)*

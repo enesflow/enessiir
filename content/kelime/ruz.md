@@ -6,4 +6,4 @@ title: '"Rûz" ne demek?'
 ([[farsca|Farsça]]) Gün, gündüz
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/ruz)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/ruz)*

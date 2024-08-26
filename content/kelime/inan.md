@@ -8,4 +8,4 @@ title: "\"'İnân\" ne demek?'"
 2. Zapt, kontrol, idâre
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/İnân)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/İnân)*

@@ -6,4 +6,4 @@ title: '"Nigâh" ne demek?'
 ([[farsca|Farsça]]) Bakış, bakma, nazar
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/nigah)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/nigah)*

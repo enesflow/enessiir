@@ -6,4 +6,4 @@ title: '"Râm" ne demek?'
 ([[farsca|Farsça]]) İtâat eden, boyun eğen
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/ram)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/ram)*

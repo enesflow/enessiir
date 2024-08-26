@@ -6,4 +6,4 @@ title: '"Helâk" ne demek?'
 ([[arapca|Arapça]]) Ölme, mahvolma, yok olma
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Helâk)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Helâk)*

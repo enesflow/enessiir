@@ -6,4 +6,4 @@ title: '"Sâye" ne demek?'
 ([[farsca|Farsça]]) Gölge
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/saye)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/saye)*

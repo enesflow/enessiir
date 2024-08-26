@@ -6,4 +6,4 @@ title: '"Pâmâl" ne demek?'
 ([[farsca|Farsça]]) Ayaklar altına alınmış, çiğnenmiş, hakir duruma düşürülmüş, perîşan edilmiş
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Pâmâl)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Pâmâl)*

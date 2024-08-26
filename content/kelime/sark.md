@@ -6,4 +6,4 @@ title: '"Şark" ne demek?'
 ([[arapca|Arapça]]) Dört ana yönden güneşin doğduğu yön, doğu
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Şark)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Şark)*

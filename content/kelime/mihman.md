@@ -6,4 +6,4 @@ title: '"Mihmân" ne demek?'
 ([[farsca|Farsça]]) Misâfir, konuk
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Mihmân)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Mihmân)*

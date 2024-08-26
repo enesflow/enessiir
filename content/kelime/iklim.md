@@ -6,4 +6,4 @@ title: '"İklîm" ne demek?'
 ([[arapca|Arapça]]) Ülke, diyar
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/iklim)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/iklim)*

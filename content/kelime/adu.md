@@ -6,4 +6,4 @@ title: '"Adû" ne demek?'
 ([[arapca|Arapça]]) Düşman
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/adu)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/adu)*

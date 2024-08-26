@@ -6,4 +6,4 @@ title: '"Tîg" ne demek?'
 Kılıç, [[kelime/seyf|seyf]]
 
 ---
-*Kaynak: [Büyük Lügat](https://www.buyuklugat.com/osmanlica-turkce/tig)*
+*Menşei: [Büyük Lügat](https://www.buyuklugat.com/osmanlica-turkce/tig)*

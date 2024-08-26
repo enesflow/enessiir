@@ -8,4 +8,4 @@ title: '"Reh" ne demek?'
 2. Usûl, tarz, sistem
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Reh)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Reh)*

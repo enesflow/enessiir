@@ -6,4 +6,4 @@ title: '"Nâme" ne demek?'
 ([[farsca|Farsça]]) Mektup
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/name)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/name)*

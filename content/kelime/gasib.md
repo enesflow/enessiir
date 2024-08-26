@@ -6,4 +6,4 @@ title: '"Gāsıb" ne demek?'
 ([[arapca|Arapça]] **gasb**'tan) Bir şeyi sâhibinin izni olmadan zorla ele geçiren, gasbeden (kimse)
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/gasıp)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/gasıp)*

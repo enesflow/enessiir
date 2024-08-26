@@ -6,4 +6,4 @@ title: '"Câlis" ne demek?'
 ([[arapca|Arapça]]) Oturmak
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/calis)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/calis)*

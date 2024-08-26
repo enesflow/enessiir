@@ -6,4 +6,4 @@ title: '"Mağrip" ne demek?'
 ([[arapca|Arapça]] **gurub**'tan) Batı
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/magrip)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/magrip)*

@@ -6,4 +6,4 @@ title: '"Mâh" ne demek?'
 ([[farsca|Farsça]]) Ay
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/mah)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/mah)*

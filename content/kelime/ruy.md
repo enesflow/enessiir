@@ -7,4 +7,4 @@ title: '"Rûy" ne demek?'
 **Rûy-î zemîni**: Yeryüzü
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/ruy)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/ruy)*

@@ -5,4 +5,4 @@ title: '"Meslûl" ne demek?'
 ([[arapca|Arapça]] **sell**'den) Kınından çekilip çıkarılmış, kınından sıyrılmış
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/meslul)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/meslul)*

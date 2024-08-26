@@ -8,4 +8,4 @@ title: '"Mehcûr" ne demek?'
 2. Bırakılmış, unutulmuş, terkedilmiş, metruk
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Mehcûr)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Mehcûr)*

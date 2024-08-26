@@ -6,4 +6,4 @@ title: '"Garb" ne demek?'
 ([[arapca|Arapça]]) Dört ana yönden güneşin battığı yön, batı, [[kelime/magrip#Mağrip|mağrip]]
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Garp)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Garp)*

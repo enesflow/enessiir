@@ -6,4 +6,4 @@ title: '"Ser" ne demek?'
 ([[farsca|Farsça]]) Baş, kafa
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/ser)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/ser)*

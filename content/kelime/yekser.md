@@ -6,4 +6,4 @@ title: '"Yekser" ne demek?'
 ([[farsca|Farsça]]) Hep berâber, birlikte
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/yekser)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/yekser)*

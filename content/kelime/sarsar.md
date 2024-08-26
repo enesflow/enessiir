@@ -6,4 +6,4 @@ title: '"Sarsar" ne demek?'
 ([[arapca|Arapça]]) Şiddetli ve soğuk esen rüzgâr
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/sarsar)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/sarsar)*

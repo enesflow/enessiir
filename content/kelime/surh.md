@@ -6,4 +6,4 @@ title: '"Sürh" ne demek?'
 ([[farsca|Farsça]]) Kırmızı, al
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/sürh)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/sürh)*

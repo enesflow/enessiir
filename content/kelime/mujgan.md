@@ -6,4 +6,4 @@ title: '"Müjgân" ne demek?'
 ([[farsca|Farsça]] **muje**'nin çoğulu) Kirpikler, kirpik
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Müjgân)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Müjgân)*

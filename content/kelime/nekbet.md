@@ -6,4 +6,4 @@ title: '"Nekbet" ne demek?'
 ([[arapca|Arapça]]) Tâlihsizlik, bahtsızlık, düşkünlük
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Nikbet)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Nikbet)*

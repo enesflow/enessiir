@@ -6,4 +6,4 @@ title: '"Peyâm" ne demek?'
 ([[farsca|Farsça]]) Peygam, haber
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/peyam)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/peyam)*

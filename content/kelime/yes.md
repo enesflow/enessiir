@@ -6,4 +6,4 @@ title: "\"Ye's\" ne demek?"
 ([[arapca|Arapça]]) Şiddetli üzüntü, keder
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Yeis)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Yeis)*

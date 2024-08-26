@@ -6,4 +6,4 @@ title: '"Rezm" ne demek?'
 ([[farsca|Farsça]]) Kavga, savaş, cenk
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/rezm)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/rezm)*

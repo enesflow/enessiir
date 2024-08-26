@@ -6,4 +6,4 @@ title: '"Hemçü" ne demek?'
 ([[farsca|Farsça]]) Gibi
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/hemçü)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/hemçü)*

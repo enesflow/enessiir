@@ -6,4 +6,4 @@ title: '"Sürûr" ne demek?'
 ([[arapca|Arapça]]) Sevinç
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Sürûr)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Sürûr)*

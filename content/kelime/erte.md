@@ -6,4 +6,4 @@ title: '"Erte" ne demek?'
 ([[eskiturk|Eski Türkçe]]) Yarın
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/erte)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/erte)*

@@ -6,4 +6,4 @@ title: '"Iyân" ne demek?'
 ([[arapca|Arapça]] **ayân**) Âşikâr, belli:
 
 ---
-*Kaynak: [Luggat](https://www.luggat.com/%c4%b1yan)*
+*Menşei: [Luggat](https://www.luggat.com/%c4%b1yan)*

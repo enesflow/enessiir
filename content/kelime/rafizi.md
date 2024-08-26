@@ -8,4 +8,4 @@ title: '"Râfızî" ne demek?'
 
 
 ---
-*Kaynak: [TDV İslâm Ansiklopedisi](https://islamansiklopedisi.org.tr/rafiziler)*
+*Menşei: [TDV İslâm Ansiklopedisi](https://islamansiklopedisi.org.tr/rafiziler)*

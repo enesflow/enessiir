@@ -6,4 +6,4 @@ title: '"Râyat" ne demek?'
 ([[arapca|Arapça]] **râyet**'in çoğulu) Sancaklar, bayraklar
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/rayat)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/rayat)*

@@ -6,4 +6,4 @@ title: '"Âvâz" ne demek?'
 ([[farsca|Farsça]]) Ses, sedâ
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/avaz)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/avaz)*

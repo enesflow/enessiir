@@ -6,4 +6,4 @@ title: '"Gazâ" ne demek?'
 ([[arapca|Arapça]]) İslâm dîni uğruna yapılan savaş, cihat
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/gaza)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/gaza)*

@@ -6,4 +6,4 @@ title: '"Highborn" ne demek?'
 ([[ingilizce|İngilizce]]) Soylu, asil
 
 ---
-*Kaynak: [Tureng](https://tureng.com/de/turkisch-englisch/highborn)*
+*Menşei: [Tureng](https://tureng.com/de/turkisch-englisch/highborn)*

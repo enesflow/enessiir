@@ -6,4 +6,4 @@ title: '"Gark" ne demek?'
 ([[arapca|Arapça]]) (Suya) batma, (suya) batırma, (suda) boğulma, **Mecaz**: Bir şeyle aşırı derecede dolmuş olma, bir şeye batmış, boğulmuş halde bulunma, müstağrak
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/gark)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/gark)*

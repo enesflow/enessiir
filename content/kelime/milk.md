@@ -6,4 +6,4 @@ title: '"Milk" ne demek?'
 ([[arapca|Arapça]]) Mülk kelimesinin eski metinlerde kullanılan bir şekli
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/milk)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/milk)*

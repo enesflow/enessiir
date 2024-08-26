@@ -6,4 +6,4 @@ title: '"Übüvvet" ne demek?'
 ([[arapca|Arapça]] **eb**'den) Babalık 
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Übüvvet)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Übüvvet)*

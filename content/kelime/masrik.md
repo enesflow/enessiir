@@ -6,4 +6,4 @@ title: '"Maşrık" ne demek?'
 ([[arapca|Arapça]] **[[kelime/sark|şark]]**'tan) Doğu
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/maşrık)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/maşrık)*

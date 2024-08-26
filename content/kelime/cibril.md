@@ -6,4 +6,4 @@ title: '"Cibril" ne demek?'
 ([[arapca|Arapça]]) Cebrâil
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/cibril)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/cibril)*

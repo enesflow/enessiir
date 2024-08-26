@@ -6,4 +6,4 @@ title: '"Eflâk" ne demek?'
 ([[arapca|Ararpça]] **felek**’in çoğulu) Felekler, gökler
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/eflak)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/eflak)*

@@ -6,4 +6,4 @@ title: '"Kinsmen" ne demek?'
 ([[ingilizce|İngilizce]]) Yakınlar
 
 ---
-*Kaynak: [Tureng](https://tureng.com/de/turkisch-englisch/kinsmen)*
+*Menşei: [Tureng](https://tureng.com/de/turkisch-englisch/kinsmen)*

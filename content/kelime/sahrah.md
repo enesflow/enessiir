@@ -6,4 +6,4 @@ title: '"Şâhrâh" ne demek?'
 ([[farsca|Farsça]]) Ana yol, ana cadde, **Mecaz**: doğru ve açık yol, selâmet yolu
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/sahrah)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/sahrah)*

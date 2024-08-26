@@ -6,4 +6,4 @@ title: '"Mihr" ne demek?'
 ([[farsca|Farsça]]) Güneş
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/mihr)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/mihr)*

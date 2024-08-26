@@ -6,4 +6,4 @@ title: '"Tebâh" ne demek?'
 ([[farsca|Farsça]]) Yıkılmış, mahvolmuş, harap olmuş
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Tebâh)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Tebâh)*

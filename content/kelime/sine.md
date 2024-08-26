@@ -9,4 +9,4 @@ title: '"Sîne" ne demek?'
 3. İç, derinlik
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Sîne)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Sîne)*

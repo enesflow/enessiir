@@ -6,4 +6,4 @@ title: '"Erîke" ne demek?'
 ([[arapca|Arapça]]) Taht
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/erike)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/erike)*

@@ -6,4 +6,4 @@ title: '"Dissever" ne demek?'
 ([[ingilizce|İngilizce]]) Ayırmak, koparmak
 
 ---
-*Kaynak: [Tureng](https://tureng.com/de/turkisch-englisch/dissever)*
+*Menşei: [Tureng](https://tureng.com/de/turkisch-englisch/dissever)*

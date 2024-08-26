@@ -6,4 +6,4 @@ title: '"Giran" ne demek?'
 ([[farsca|Farsça]]) Ağır
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/giran)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/giran)*

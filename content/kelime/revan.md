@@ -6,4 +6,4 @@ title: '"Revân" ne demek?'
 ([[farsca|Farsça]]) Yürüyen, giden, akan
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/revan)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/revan)*

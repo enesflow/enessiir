@@ -6,4 +6,4 @@ title: '"Cüyûş" ne demek?'
 ([[arapca|Arapça]] **[[kelime/ceys#Ceyş|ceyş]]**'in çoğulu) Askerler, ordular:
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/cüyuş)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/cüyuş)*

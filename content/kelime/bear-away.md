@@ -6,4 +6,4 @@ title: '"Bear away" ne demek?'
 ([[ingilizce|İngilizce]]) Taşımak, götürmek
 
 ---
-*Kaynak: [Tureng](https://tureng.com/de/turkisch-englisch/bear%20away)*
+*Menşei: [Tureng](https://tureng.com/de/turkisch-englisch/bear%20away)*

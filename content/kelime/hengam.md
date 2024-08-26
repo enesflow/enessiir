@@ -6,4 +6,4 @@ title: '"Hengâm" ne demek?'
 ([[farsca|Farsça]]) Vakit, zaman, mevsin
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/hengam)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/hengam)*

@@ -6,4 +6,4 @@ title: '"Resân" ne demek?'
 ([[farsca|Farsça]] **resānі**'den) . resānіden “eriştirmek”ten resān) Sonuna geldiği kelimelere “eriştiren, yetiştiren, ulaştıran” anlamı katarak Farsça usûlüyle birleşik sıfatlar yapar
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/resan)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/resan)*

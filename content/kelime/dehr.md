@@ -8,4 +8,4 @@ title: '"Dehr" ne demek?'
 2. Zaman, kesintisiz zaman, devir
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Dehr)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Dehr)*

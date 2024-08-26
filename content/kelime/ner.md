@@ -6,4 +6,4 @@ title: '"Ner" ne demek?'
 ([[farsca|Farsça]]) Erkek, er, nerre
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/ner)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/ner)*

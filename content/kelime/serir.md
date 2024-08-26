@@ -6,4 +6,4 @@ title: '"Serîr" ne demek?'
 ([[arapca|Arapça]]) Taht
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/serir)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/serir)*

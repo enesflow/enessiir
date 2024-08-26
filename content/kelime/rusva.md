@@ -6,4 +6,4 @@ title: '"Rüsvâ" ne demek?'
 ([[farsca|Farsça]]) Kötülükle şöhret bulmuş, rezil, kepâze kimse
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Rüsvâ)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Rüsvâ)*

@@ -6,4 +6,4 @@ title: '"Mahşer" ne demek?'
 ([[arapca|Arapça]]) *Mecaz*: Çok büyük kalabalık
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/mahşer)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/mahşer)*

@@ -6,4 +6,4 @@ title: '"Cibâh" ne demek?'
 ([[arapca|Arapça]] **cebhe**'nin çoğulu) Alınlar
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/cibah)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/cibah)*

@@ -6,4 +6,4 @@ title: '"Bîçâre" ne demek?'
 ([[farsca|Farsça]]) Çâresiz, âciz, zavallı
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Bîçâre)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Bîçâre)*

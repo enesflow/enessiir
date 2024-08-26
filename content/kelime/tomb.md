@@ -6,4 +6,4 @@ title: '"Tomb" ne demek?'
 ([[ingilizce|İngilizce]]) Mezar, türbe
 
 ---
-*Kaynak: [Tureng](https://tureng.com/de/turkisch-englisch/tomb)*
+*Menşei: [Tureng](https://tureng.com/de/turkisch-englisch/tomb)*

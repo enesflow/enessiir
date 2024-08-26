@@ -6,4 +6,4 @@ title: '"Fürûğ" ne demek?'
 ([[farsca|Farsça]]) Nur, parlaklık, ışık, ziyâ, şûle
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/füruğ)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/füruğ)*

@@ -6,4 +6,4 @@ title: '"Maiden" ne demek?'
 ([[ingilizce|İngilizce]]) Evlenmemiş genç kız
 
 ---
-*Kaynak: [Tureng](https://tureng.com/de/turkisch-englisch/maiden)*
+*Menşei: [Tureng](https://tureng.com/de/turkisch-englisch/maiden)*

@@ -6,4 +6,4 @@ title: '"İntibâh" ne demek?'
 ([[arapca|Arapça]] **nebeh**'den) Uyanma, uyanış
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/İntibâh)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/İntibâh)*

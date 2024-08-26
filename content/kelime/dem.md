@@ -8,4 +8,4 @@ title: '"Dem" ne demek?'
 2. Zaman, an, çağ
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/dem)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/dem)*

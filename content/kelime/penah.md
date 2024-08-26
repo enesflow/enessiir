@@ -7,4 +7,4 @@ title: '"Penâh" ne demek?'
 **-penâh**: Sonuna geldiği kelimelere “sığınağı, koruyucusu, hâmîsi olan” anlamı katarak Farsça usûlüyle birleşik kelimeler yapar
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/penah)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/penah)*

@@ -6,4 +6,4 @@ title: '"Rahş" ne demek?'
 ([[farsca|Farsça]]) Gösterişli, güzel at
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Rahş)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Rahş)*

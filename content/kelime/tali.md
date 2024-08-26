@@ -8,4 +8,4 @@ title: '"Tâli" ne demek?'
 2. Baht, tâlih
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/tali)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/tali)*

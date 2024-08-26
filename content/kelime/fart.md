@@ -6,4 +6,4 @@ title: '"Fart" ne demek?'
 ([[arapca|Arapça]]) Haddinden fazla olma, aşırılık, ifrat
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/fart)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/fart)*

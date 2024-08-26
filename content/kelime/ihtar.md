@@ -6,4 +6,4 @@ title: '"İhtar" ne demek?'
 ([[arapca|Arapça]] **hutûr**'dan) Hatırlatma
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/İhtar)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/İhtar)*

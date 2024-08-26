@@ -6,4 +6,4 @@ title: '"Sepulchre" ne demek?'
 ([[ingilizce|İngilizce]]) Mezar
 
 ---
-*Kaynak: [Tureng](https://tureng.com/de/turkisch-englisch/sepulchre)*
+*Menşei: [Tureng](https://tureng.com/de/turkisch-englisch/sepulchre)*

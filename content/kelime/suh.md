@@ -6,4 +6,4 @@ title: '"Şûh" ne demek?'
 ([[farsca|Farsça]]) Serbest ve neşeli tavırlı, işveli, cilveli (kadın)
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Şûh)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Şûh)*

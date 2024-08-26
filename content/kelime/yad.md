@@ -8,4 +8,4 @@ title: '"Yâd" ne demek?'
 2. Hatır
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Yâd)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Yâd)*

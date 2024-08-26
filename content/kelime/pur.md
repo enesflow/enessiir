@@ -6,4 +6,4 @@ title: '"Pür" ne demek?'
 ([[farsca|Farsça]]) Başına geldiği kelimelere “dolu, çok” anlamı katarak Farsça usûlüyle birleşik sıfatlar ve zarflar yapar
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/pür)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/pür)*

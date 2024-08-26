@@ -6,4 +6,4 @@ title: '"Mertek" ne demek?'
 ([[farsca|Farsça]]) Adamcık, hayvan yavrusu
 
 ---
-*Kaynak: [Nişanyan Sözlük](https://www.nisanyansozluk.com/kelime/mertek)*
+*Menşei: [Nişanyan Sözlük](https://www.nisanyansozluk.com/kelime/mertek)*

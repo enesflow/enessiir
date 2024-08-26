@@ -6,4 +6,4 @@ title: '"Orta Direk" ne demek?'
 **Mecaz**: Toplumun memur, emekli, küçük esnaf, küçük çiftçi gibi dar ve sabit gelirli kişilerden oluşan kesimi
 
 ---
-*Kaynak: [Türk Dil Kurumu]([https://www.lugatim.com/s/Orta Direk](https://www.sozluk.gov.tr/?aranan=orta%20direk))*
+*Menşei: [Türk Dil Kurumu]([https://www.lugatim.com/s/Orta Direk](https://www.sozluk.gov.tr/?aranan=orta%20direk))*

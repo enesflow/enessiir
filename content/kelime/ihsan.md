@@ -8,4 +8,4 @@ title: '"İhsân" ne demek?'
 2. Lutuf, kerem, iyilik
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/İhsân)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/İhsân)*

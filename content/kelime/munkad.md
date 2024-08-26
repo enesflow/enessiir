@@ -6,4 +6,4 @@ title: '"Münkād" ne demek?'
 ([[arapca|Arapça]] **inkiyad**'dan) Boyun eğen, boyun eğmiş, [[kelime/ram#Râm|râm]]olmuş, tâbi, itâatkâr
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/münkad)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/münkad)*

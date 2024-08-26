@@ -6,4 +6,4 @@ title: '"Hâme" ne demek?'
 ([[arapca|Arapça]]) Yontulmuş kalem
 
 ---
-*Kaynak: [Luggat](https://www.luggat.com/hame)*
+*Menşei: [Luggat](https://www.luggat.com/hame)*

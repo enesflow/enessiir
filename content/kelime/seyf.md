@@ -5,4 +5,4 @@ title: '"Seyf" ne demek?'
 ([[arapca|Arapça]]) Kılıç
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/seyf)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/seyf)*

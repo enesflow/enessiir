@@ -6,4 +6,4 @@ title: '"Nesîm" ne demek?'
 ([[arapca|Arapça]]) Hafif hafif esen, hoş ve latif rüzgâr
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://lugatim.com/s/nesim)*
+*Menşei: [Kubbealtı Lugatı](https://lugatim.com/s/nesim)*

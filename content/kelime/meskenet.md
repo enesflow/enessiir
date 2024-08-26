@@ -6,4 +6,4 @@ title: '"Meskenet" ne demek?'
 ([[arapca|Arapça]]) Miskin olma durumu, tembellik, uyuşukluk, âcizlik
 
 ---
-*Kaynak: [Kubbealtı Lugatı](https://www.lugatim.com/s/Meskenet)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Meskenet)*
