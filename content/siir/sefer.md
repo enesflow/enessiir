@@ -39,7 +39,7 @@ Ey [[kelime/berk#Berk|berk]] müjde ver feleğin [[kelime/mihr#Mihr|mihr]] ü [[
 *Meydân-ı cenge [[kelime/saye#Sâye|sâye]]-[[kelime/resan#Resân|resân]] oldu [[kelime/tug#Tuğ|tûğ]]lar  
 [[kelime/rehyab#Rehyâb|Rehyâb]]-ı [[kelime/milk#Milk|milk]]-i [[kelime/nusirevan#Nûşirevân|Nûşirevân]] oldu tûğlar*
 
-#### Günümüz Türkçesi'yle
+## Günümüz Türkçesi'yle
 -1514-
 *Tebrîz'e doğru çıktı seferin yoluna
 Ruhlar yoldaş oldu cihan pâdişâhına*

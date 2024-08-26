@@ -13,7 +13,7 @@ Devr-i Sultan Selîm'i yazmak içün
 Halk [[sair/beyatli|Yahyâ Kemâl]]'e rahmet okur
 [[kelime/gus#Gûş|Gûş]] ederken Selîmnâme'sini
 
-#### Günümüz Türkçesi'yle
+## Günümüz Türkçesi'yle
 *Sultan Selim devrini yazmak için
 Kılıç gibi çekti kalemini
 Halk Yahya Kemal'e rahmet okur

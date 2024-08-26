@@ -1,8 +1,8 @@
 ---
-title: Enes Şiir'e hoş geldiniz
+title: Enes Şiir'e teşrîf buyurdunuz
 ---
 
-# Site haritası
+# Harîta-i Sahîfe
 ## [[sair/index|Şairler]]
 ## [[siir/index|Şiirler]]
 ## [[kitap/index|Kitaplar]]
