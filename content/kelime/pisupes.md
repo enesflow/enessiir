@@ -7,4 +7,4 @@ title: '"Pîş ü pes" ne demek?'
 
 ---
 *Kaynak (piş): [Kubbealtı Lugatı](https://www.lugatim.com/s/piş)
-*Kaynak (pes): [Kubbealtı Lugatı](https://www.lugatim.com/s/pes)*
+Kaynak (pes): [Kubbealtı Lugatı](https://www.lugatim.com/s/pes)*
