@@ -19,3 +19,4 @@ Bir [[sair/akifersoy|Mehmet Âkif Ersoy]]
 - [[siir/uyan|Uyan!]]
 ### Gölgeler
 - [[siir/bulbul|Bülbül]]
+- [[siir/resmimicin|Resmim İçin]]
