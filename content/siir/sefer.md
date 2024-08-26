@@ -2,7 +2,7 @@
 title: Sefer
 ---
 
-Bir [[sair/beyatli|Yahyâ Kemâl]] şiiri
+Bir [[sair/yahyakemal|Yahyâ Kemâl]] şiiri
 
 ---
 

@@ -2,7 +2,7 @@
 title: Resmim İçin
 ---
 
-Dört [[sair/akifersoy|Mehmet Âkif Ersoy]] şiiri
+Dört [[sair/mehmetakif|Mehmet Âkif Ersoy]] şiiri
 
 ---
 

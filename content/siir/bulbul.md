@@ -2,7 +2,7 @@
 title: Bülbül
 ---
 
-Bir [[sair/akifersoy|Mehmet Âkif Ersoy]] şiiri
+Bir [[sair/mehmetakif|Mehmet Âkif Ersoy]] şiiri
 
 ---
 
