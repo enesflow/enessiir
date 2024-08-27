@@ -18,6 +18,6 @@ Cilt III Yeni Şiir
 Cilt IV Yeni Şiir
 Cilt V Yeni Şiir.
 
-## Şiirler
+## Şairler
 ### Cilt II Divan Şiiri
 - [[sair/ahmedfakih|Ahmed Fakih]]

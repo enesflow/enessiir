@@ -15,6 +15,8 @@ Bir [[sair/mehmetakif|Mehmet Âkif Ersoy]]
 
 
 ## Şiirler
+### Safahat
+- [[siir/hasta|Hasta]]
 ### Hâtıralar
 - [[siir/uyan|Uyan!]]
 ### Gölgeler
