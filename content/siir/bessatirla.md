@@ -12,5 +12,3 @@ Annelerin ninnilerinden
 yürekte, kitapta ve sokakta yenebilmek yalanı, 
 anlamak, sevgilim, o, bir müthiş bahtiyarlık, 
 anlamak gideni ve gelmekte olanı.
-
-*1946*
