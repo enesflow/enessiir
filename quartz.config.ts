@@ -22,8 +22,10 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        // header: "Schibsted Grotesk",
+        header: "Urbanist",
+        // body: "Source Sans Pro",
+        body: "Atkinson Hyperlegible",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -35,7 +37,7 @@ const config: QuartzConfig = {
           dark: "#2b2b2b",
           secondary: "#2ebd88", // Emerald 500 (slightly darker than #34d399)
           tertiary: "#a0e2c0", // Emerald 200 (slightly darker than #a7f3d0)
-                  highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -84,7 +86,7 @@ const config: QuartzConfig = {
           const aTitle = a.frontmatter?.title ?? ""
           const bTitle = b.frontmatter?.title ?? ""
           return aTitle.localeCompare(bTitle)
-        }
+        },
       }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
