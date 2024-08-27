@@ -9,4 +9,4 @@ Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] kitabı
 
 ## Şiirler
 ### Allah
-- [[siir/yaroki|Yâr O ki]]
+- [[siir/yaroki|Yâr O ki...]]

@@ -1,12 +1,12 @@
 ---
-title: Yâr O Ki
+title: Yâr O Ki...
 ---
 
 Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] şiiri
 
 ---
 
-## Yâr O Ki
+## Yâr O Ki...
 Falan, dağın ardında;  
 Seslen, seslen, işitmez!  
 Filân, toprak altında;  
