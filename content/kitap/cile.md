@@ -10,3 +10,5 @@ Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] kitabı
 ## Şiirler
 ### Allah
 - [[siir/yaroki|Yâr O ki...]]
+### Davâ ve Cemiyet
+- [[siir/babadanogula|Babadan Oğula]]
