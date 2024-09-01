@@ -45,9 +45,15 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
             })
             // AAH, I get the "fatal: destination path 'enessiir' already exists and is not an empty directory." error
             // Let's run a cool "tree" command to see what's inside the directory
-            const treeResult = await execa("sh", [
+            /* const treeResult = await execa("sh", [
               "-c",
               `tree ${clonePath.split("/").slice(0, -1).join("/")}`,
+            ]) */
+            // OF COURSE THERE IS NO "tree" IN LINUX
+            // I WILL USE "find" COMMAND
+            const treeResult = await execa("sh", [
+              "-c",
+              `find ${clonePath.split("/").slice(0, -1).join("/")}`,
             ])
             console.log("TREE RESULT", treeResult.stdout, treeResult.stderr)
             const cloneResult = await execa("sh", [
