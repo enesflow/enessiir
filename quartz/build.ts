@@ -19,6 +19,7 @@ import { options } from "./util/sourcemap"
 import { Mutex } from "async-mutex"
 import DepGraph from "./depgraph"
 import { getStaticResourcesFromPlugins } from "./plugins"
+import { execa } from "execa"
 
 type Dependencies = Record<string, DepGraph<FilePath> | null>
 
@@ -42,7 +43,13 @@ function newBuildId() {
   return new Date().toISOString()
 }
 
+export const REPO_URL = "https://github.com/enesflow/enessiir.git"
+export const CLONE_PATH = path.join(import.meta.dirname, "enessiiir")
+
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
+  const cloneResult = await execa("sh", ["-c", `git clone ${REPO_URL} ${CLONE_PATH}`])
+  console.log("CLONE RESULT", cloneResult.stdout, cloneResult.stderr)
+
   const ctx: BuildCtx = {
     buildId: newBuildId(),
     argv,

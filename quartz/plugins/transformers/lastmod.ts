@@ -1,9 +1,9 @@
+import { Repository } from "@napi-rs/simple-git"
+import chalk from "chalk"
 import fs from "fs"
 import path from "path"
-import { Repository } from "@napi-rs/simple-git"
+import { CLONE_PATH } from "../../build"
 import { QuartzTransformerPlugin } from "../types"
-import chalk from "chalk"
-import { execa } from "execa"
 
 export interface Options {
   priority: ("frontmatter" | "git" | "filesystem")[]
@@ -37,30 +37,6 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
         () => {
           let repo: Repository | undefined = undefined
           return async (_tree, file) => {
-            const repositoryName = "https://github.com/enesflow/enessiir.git"
-            const clonePath = "/opt/buildhome/repo/very-temporary/enessiir"
-            // first create the path
-            await fs.promises.mkdir(clonePath.split("/").slice(0, -1).join("/"), {
-              recursive: true,
-            })
-            // AAH, I get the "fatal: destination path 'enessiir' already exists and is not an empty directory." error
-            // Let's run a cool "tree" command to see what's inside the directory
-            /* const treeResult = await execa("sh", [
-              "-c",
-              `tree ${clonePath.split("/").slice(0, -1).join("/")}`,
-            ]) */
-            // OF COURSE THERE IS NO "tree" IN LINUX
-            // I WILL USE "find" COMMAND
-            const treeResult = await execa("sh", [
-              "-c",
-              `find ${clonePath.split("/").slice(0, -1).join("/")}`,
-            ])
-            console.log("TREE RESULT", treeResult.stdout, treeResult.stderr)
-            const cloneResult = await execa("sh", [
-              "-c",
-              `git clone ${repositoryName} ${clonePath}`,
-            ])
-            console.log("CLONE RESULT", cloneResult.stdout, cloneResult.stderr)
             let created: MaybeDate = undefined
             let modified: MaybeDate = undefined
             let published: MaybeDate = undefined
@@ -131,35 +107,11 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   // It's either the same as the workdir,
                   // or 1+ level higher in case of a submodule/subtree setup
                   // repo = Repository.discover(file.cwd)
-                  repo = new Repository(clonePath)
+                  repo = new Repository(CLONE_PATH)
                   if (isCile)
                     console.log("==--== Rediscovered repo", repo, repo.workdir(), file.cwd)
                 } else if (isCile) console.log("==--==", "git repo", repo, repo.workdir())
 
-                if (isCile) {
-                  /* console.log("EXECUTING EXEC COMMAND")
-                  const command = `git log -4 --pretty="format:%ci" ${repo.workdir()}/${fp}`
-                  console.log("COMMAND", command)
-                  exec(command, (err, stdout, stderr) => {
-                    console.log("STDERR", stderr)
-                    console.log("STDOUT", stdout)
-                  }) */
-                  // I don't think this is possible, the only date I am getting is the current date!
-                  // On my pc I get the correct result but not on the server (cloudflare pages)
-                  // I think I will clone the repo again
-                  /* const repositoryName = "https://github.com/enesflow/enessiir.git"
-                  const clonePath = "/opt/buildhome/repo/enessiir"
-                  const command = `git clone ${repositoryName} ${clonePath}`
-                  const command2 = `git log -4 --pretty="format:%ci" ${clonePath}/${fp}`
-                  console.log("COMMAND", command)
-                  console.log("COMMAND2", command2)
-                  const result1 = await execa("sh", ["-c", command])
-                  console.log("RESULT1", result1)
-                  const result2 = await execa("sh", ["-c", command2])
-                  console.log("RESULT2", result2)
-                  console.log("RESULT2", result2.stdout)
-                  console.log("RESULT2", result2.stderr) */
-                }
                 try {
                   modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
                   if (isCile)
