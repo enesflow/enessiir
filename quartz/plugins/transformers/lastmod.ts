@@ -108,7 +108,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   repo = Repository.discover(file.cwd)
                   if (isCile)
                     console.log("==--== Rediscovered repo", repo, repo.workdir(), file.cwd)
-                } else if (isCile) console.log("==--==", "git repo", repo)
+                } else if (isCile) console.log("==--==", "git repo", repo, repo.workdir())
                 try {
                   modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
                   if (isCile)
