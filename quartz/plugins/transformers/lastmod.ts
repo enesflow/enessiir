@@ -123,7 +123,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   // On my pc I get the correct result but not on the server (cloudflare pages)
                   // I think I will clone the repo again
                   const repositoryName = "https://github.com/enesflow/enessiir.git"
-                  const clonePath = "/tmp/enessiir"
+                  const clonePath = "/opt/buildhome/repo/enessiir"
                   const command = `git clone ${repositoryName} ${clonePath}`
                   const command2 = `git log -4 --pretty="format:%ci" ${clonePath}/${fp}`
                   console.log("COMMAND", command)
