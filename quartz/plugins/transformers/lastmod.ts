@@ -106,8 +106,9 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   // It's either the same as the workdir,
                   // or 1+ level higher in case of a submodule/subtree setup
                   repo = Repository.discover(file.cwd)
-                }
-                if (isCile) console.log("==--==", "git repo", repo)
+                  if (isCile)
+                    console.log("==--== Rediscovered repo", repo, repo.workdir(), file.cwd)
+                } else if (isCile) console.log("==--==", "git repo", repo)
                 try {
                   modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
                   if (isCile)
