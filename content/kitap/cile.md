@@ -12,3 +12,5 @@ Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] kitabı
 - [[siir/yaroki|Yâr O ki...]]
 ### Davâ ve Cemiyet
 - [[siir/babadanogula|Babadan Oğula]]
+### Hafakan
+- [[siir/buyagmur|Bu Yağmur]]
