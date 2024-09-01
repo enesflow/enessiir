@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "tr-TR",
     baseUrl: "enessiir.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
