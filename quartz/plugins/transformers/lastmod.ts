@@ -3,7 +3,7 @@ import path from "path"
 import { Repository } from "@napi-rs/simple-git"
 import { QuartzTransformerPlugin } from "../types"
 import chalk from "chalk"
-import { exec } from "child_process"
+import { execa } from "execa"
 
 export interface Options {
   priority: ("frontmatter" | "git" | "filesystem")[]
@@ -112,13 +112,28 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 } else if (isCile) console.log("==--==", "git repo", repo, repo.workdir())
 
                 if (isCile) {
-                  console.log("EXECUTING EXEC COMMAND")
+                  /* console.log("EXECUTING EXEC COMMAND")
                   const command = `git log -4 --pretty="format:%ci" ${repo.workdir()}/${fp}`
                   console.log("COMMAND", command)
                   exec(command, (err, stdout, stderr) => {
                     console.log("STDERR", stderr)
                     console.log("STDOUT", stdout)
-                  })
+                  }) */
+                  // I don't think this is possible, the only date I am getting is the current date!
+                  // On my pc I get the correct result but not on the server (cloudflare pages)
+                  // I think I will clone the repo again
+                  const repositoryName = "enesflow/enessiir"
+                  const clonePath = "/tmp/enessiir"
+                  const command = `git clone ${repositoryName} ${clonePath}`
+                  const command2 = `git log -4 --pretty="format:%ci" ${clonePath}/${fp}`
+                  console.log("COMMAND", command)
+                  console.log("COMMAND2", command2)
+                  const result1 = await execa("sh", ["-c", command])
+                  console.log("RESULT1", result1)
+                  const result2 = await execa("sh", ["-c", command2])
+                  console.log("RESULT2", result2)
+                  console.log("RESULT2", result2.stdout)
+                  console.log("RESULT2", result2.stderr)
                 }
                 try {
                   modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
