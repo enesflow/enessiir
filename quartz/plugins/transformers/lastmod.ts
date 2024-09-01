@@ -42,7 +42,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
             const fp = file.data.filePath!
             const fullFp = path.isAbsolute(fp) ? fp : path.posix.join(file.cwd, fp)
-            const isCile = fp.endsWith("cile.md")
+            const isCile = fp.endsWith("safahat.md")
             for (const source of opts.priority) {
               if (source === "filesystem") {
                 const st = await fs.promises.stat(fullFp)
