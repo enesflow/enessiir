@@ -6,10 +6,26 @@ import { FullSlug, simplifySlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    /*  */
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        category: "Announcements",
+        categoryId: "DIC_kwDOMnOE-M4CiIKn",
+        repo: "enesflow/enessiir",
+        repoId: "R_kgDOMnOE-A",
+        inputPosition: "top",
+        mapping: "og:title",
+        reactionsEnabled: true,
+        strict: true,
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       "Enes Sözlük 📕": "https://enessozluk.pages.dev",
+      "Github 🐙": "https://github.com/enesflow/enessiir",
     },
   }),
 }

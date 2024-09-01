@@ -54,10 +54,12 @@ document.addEventListener("nav", () => {
   giscusScript.setAttribute("data-strict", giscusContainer.dataset.strict)
   giscusScript.setAttribute("data-reactions-enabled", giscusContainer.dataset.reactionsEnabled)
   giscusScript.setAttribute("data-input-position", giscusContainer.dataset.inputPosition)
+  giscusScript.setAttribute("data-lang", "tr")
+  giscusScript.setAttribute("crossorigin", "anonymous")
 
   const theme = document.documentElement.getAttribute("saved-theme")
   if (theme) {
-    giscusScript.setAttribute("data-theme", theme)
+    giscusScript.setAttribute("data-theme", "noborder_" + theme)
   }
 
   giscusContainer.appendChild(giscusScript)
