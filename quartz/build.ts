@@ -20,6 +20,7 @@ import { Mutex } from "async-mutex"
 import DepGraph from "./depgraph"
 import { getStaticResourcesFromPlugins } from "./plugins"
 import { execa } from "execa"
+import getCwd from "@stdlib/process-cwd"
 
 type Dependencies = Record<string, DepGraph<FilePath> | null>
 
@@ -44,7 +45,7 @@ function newBuildId() {
 }
 
 export const REPO_URL = "https://github.com/enesflow/enessiir.git"
-export const CLONE_PATH = path.join(import.meta.dirname || __dirname, "enessiir")
+export const CLONE_PATH = path.join(getCwd(), "enessiir")
 
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const cloneResult = await execa("sh", ["-c", `git clone ${REPO_URL} ${CLONE_PATH}`])
