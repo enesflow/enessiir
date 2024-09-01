@@ -43,6 +43,13 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
             await fs.promises.mkdir(clonePath.split("/").slice(0, -1).join("/"), {
               recursive: true,
             })
+            // AAH, I get the "fatal: destination path 'enessiir' already exists and is not an empty directory." error
+            // Let's run a cool "tree" command to see what's inside the directory
+            const treeResult = await execa("sh", [
+              "-c",
+              `tree ${clonePath.split("/").slice(0, -1).join("/")}`,
+            ])
+            console.log("TREE RESULT", treeResult.stdout, treeResult.stderr)
             const cloneResult = await execa("sh", [
               "-c",
               `git clone ${repositoryName} ${clonePath}`,
