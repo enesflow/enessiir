@@ -113,7 +113,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
                 if (isCile) {
                   console.log("EXECUTING EXEC COMMAND")
-                  const command = `git log -1 --pretty="format:%ci" ${repo.workdir()}/${fp}`
+                  const command = `git log -4 --pretty="format:%ci" ${repo.workdir()}/${fp}`
                   console.log("COMMAND", command)
                   exec(command, (err, stdout, stderr) => {
                     console.log("STDERR", stderr)
