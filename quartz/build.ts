@@ -45,11 +45,12 @@ function newBuildId() {
 }
 
 export const REPO_URL = "https://github.com/enesflow/enessiir.git"
-export const CLONE_PATH = path.join(getCwd(), "enessiir")
+const NOO = !!process.env.NOO
+export const CLONE_PATH = NOO ? getCwd() : path.join(getCwd(), "enessiir")
 
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
-  const cloneResult = await execa("sh", ["-c", `git clone ${REPO_URL} ${CLONE_PATH}`])
-  console.log("CLONE RESULT", cloneResult.stdout, cloneResult.stderr)
+  if (!NOO) await rimraf(CLONE_PATH)
+  if (!NOO) await execa("git", ["clone", REPO_URL, CLONE_PATH], { stdio: "inherit", shell: true })
 
   const ctx: BuildCtx = {
     buildId: newBuildId(),

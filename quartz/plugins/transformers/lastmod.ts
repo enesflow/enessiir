@@ -43,64 +43,17 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
             const fp = file.data.filePath!
             const fullFp = path.isAbsolute(fp) ? fp : path.posix.join(file.cwd, fp)
-            const isCile = fp.endsWith("safahat.md")
             for (const source of opts.priority) {
               if (source === "filesystem") {
                 const st = await fs.promises.stat(fullFp)
                 created ||= st.birthtimeMs
-                if (isCile)
-                  console.log(
-                    "==--==",
-                    "filesystem created",
-                    new Date(st.birthtimeMs).toLocaleString(),
-                  )
                 modified ||= st.mtimeMs
-                if (isCile)
-                  console.log(
-                    "==--==",
-                    "filesystem modified",
-                    new Date(st.mtimeMs).toLocaleString(),
-                  )
               } else if (source === "frontmatter" && file.data.frontmatter) {
                 created ||= file.data.frontmatter.date as MaybeDate
-                if (isCile)
-                  console.log(
-                    "==--==",
-                    "frontmatter created",
-                    new Date((file.data.frontmatter.date as MaybeDate) ?? 0).toLocaleString(),
-                  )
                 modified ||= file.data.frontmatter.lastmod as MaybeDate
-                if (isCile)
-                  console.log(
-                    "==--==",
-                    "frontmatter lastmod",
-                    new Date((file.data.frontmatter.lastmod as MaybeDate) ?? 0).toLocaleString(),
-                  )
                 modified ||= file.data.frontmatter.updated as MaybeDate
-                if (isCile)
-                  console.log(
-                    "==--==",
-                    "frontmatter updated",
-                    new Date((file.data.frontmatter.updated as MaybeDate) ?? 0).toLocaleString(),
-                  )
                 modified ||= file.data.frontmatter["last-modified"] as MaybeDate
-                if (isCile)
-                  console.log(
-                    "==--==",
-                    "frontmatter last-modified",
-                    new Date(
-                      (file.data.frontmatter["last-modified"] as MaybeDate) ?? 0,
-                    ).toLocaleString(),
-                  )
                 published ||= file.data.frontmatter.publishDate as MaybeDate
-                if (isCile)
-                  console.log(
-                    "==--==",
-                    "frontmatter publishDate",
-                    new Date(
-                      (file.data.frontmatter.publishDate as MaybeDate) ?? 0,
-                    ).toLocaleString(),
-                  )
               } else if (source === "git") {
                 if (!repo) {
                   // Get a reference to the main git repo.
@@ -108,40 +61,24 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   // or 1+ level higher in case of a submodule/subtree setup
                   // repo = Repository.discover(file.cwd)
                   repo = new Repository(CLONE_PATH)
-                  if (isCile)
-                    console.log("==--== Rediscovered repo", repo, repo.workdir(), file.cwd)
-                } else if (isCile) console.log("==--==", "git repo", repo, repo.workdir())
 
-                try {
-                  modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
-                  if (isCile)
+                  try {
+                    modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
+                  } catch {
                     console.log(
-                      "==--==",
-                      "git file latest modified",
-                      new Date(
-                        await repo.getFileLatestModifiedDateAsync(file.data.filePath!),
-                      ).toLocaleString(),
+                      chalk.yellow(
+                        `\nWarning: ${file.data
+                          .filePath!} isn't yet tracked by git, last modification date is not available for this file`,
+                      ),
                     )
-                } catch {
-                  console.log(
-                    chalk.yellow(
-                      `\nWarning: ${file.data
-                        .filePath!} isn't yet tracked by git, last modification date is not available for this file`,
-                    ),
-                  )
+                  }
                 }
               }
-            }
-            if (isCile)
-              console.log("==--==", "dates", {
-                created: new Date(created as number).toLocaleString(),
-                modified: new Date(modified as number).toLocaleString(),
-                published: new Date(published as number).toLocaleString(),
-              })
-            file.data.dates = {
-              created: coerceDate(fp, created),
-              modified: coerceDate(fp, modified),
-              published: coerceDate(fp, published),
+              file.data.dates = {
+                created: coerceDate(fp, created),
+                modified: coerceDate(fp, modified),
+                published: coerceDate(fp, published),
+              }
             }
           }
         },

@@ -1,30 +1,30 @@
-import remarkMath from "remark-math"
-import rehypeKatex from "rehype-katex"
-import rehypeMathjax from "rehype-mathjax/svg"
-import { QuartzTransformerPlugin } from "../types"
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
+import rehypeMathjax from "rehype-mathjax/svg";
+import { QuartzTransformerPlugin } from "../types";
 
 interface Options {
-  renderEngine: "katex" | "mathjax"
-  customMacros: MacroType
+  renderEngine: "katex" | "mathjax";
+  customMacros: MacroType;
 }
 
 interface MacroType {
-  [key: string]: string
+  [key: string]: string;
 }
 
 export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
-  const engine = opts?.renderEngine ?? "katex"
-  const macros = opts?.customMacros ?? {}
+  const engine = opts?.renderEngine ?? "katex";
+  const macros = opts?.customMacros ?? {};
   return {
     name: "Latex",
     markdownPlugins() {
-      return [remarkMath]
+      return [remarkMath];
     },
     htmlPlugins() {
       if (engine === "katex") {
-        return [[rehypeKatex, { output: "html", macros }]]
+        return [[rehypeKatex, { output: "html", macros }]];
       } else {
-        return [[rehypeMathjax, { macros }]]
+        return [[rehypeMathjax, { macros }]];
       }
     },
     externalResources() {
@@ -42,10 +42,10 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
               contentType: "external",
             },
           ],
-        }
+        };
       } else {
-        return {}
+        return {};
       }
     },
-  }
-}
+  };
+};

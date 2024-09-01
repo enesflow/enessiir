@@ -8,16 +8,24 @@
     list-style: none;
     margin-top: 1rem;
     padding-left: 0;
-
     & > li {
       // margin: 1rem 0;
-      .section > .desc > h3 > a {
-        background-color: transparent;
+      .section {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
       }
+      /* .section > .desc > a {
+        background-color: transparent;
+        color: var(--dark);
+        pointer-events: all;
+        opacity: .75;
+      } */
 
       .section > .meta {
         margin: 0 0 0.5rem 0;
         opacity: 0.6;
+        text-align: right;
       }
     }
   }

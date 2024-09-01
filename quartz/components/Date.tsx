@@ -1,11 +1,14 @@
 import { GlobalConfiguration } from "../cfg"
 import { ValidLocale } from "../i18n"
+import { LAST_MODIFIED_TR } from "../i18n/locales/tr-TR"
 import { QuartzPluginData } from "../plugins/vfile"
 
 interface Props {
   date: Date
   locale?: ValidLocale
   showTime?: boolean
+  text?: string
+  dontAddLastModified?: boolean
 }
 
 export type ValidDateType = keyof Required<QuartzPluginData>["dates"]
@@ -23,16 +26,19 @@ export function formatDate(
   d: Date,
   locale: ValidLocale = "en-US",
   showTime: boolean = true,
+  dontAddLastModified = false,
 ): string {
-  return d.toLocaleDateString(locale, {
+  const date = d.toLocaleDateString(locale, {
     year: "numeric",
     month: "short",
     day: "2-digit",
     hour: showTime ? "numeric" : undefined,
     minute: showTime ? "numeric" : undefined,
   })
+  const text = dontAddLastModified ? undefined : LAST_MODIFIED_TR
+  return text ? `${text}: ${date}` : date
 }
 
-export function Date({ date, locale, showTime }: Props) {
-  return <>{formatDate(date, locale, showTime)}</>
+export function Date({ date, locale, showTime, dontAddLastModified }: Props) {
+  return <>{formatDate(date, locale, showTime, dontAddLastModified)}</>
 }

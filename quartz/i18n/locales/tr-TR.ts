@@ -1,5 +1,7 @@
 import { Translation } from "./definition"
 
+export const LAST_MODIFIED_TR = "Cedîden tecdîd"
+
 export default {
   propertyDefaults: {
     title: "Nâm-ı Meçhûl",
@@ -39,7 +41,7 @@ export default {
       title: "Rabt Manzarası",
     },
     recentNotes: {
-      title: "Cedîden eklenen sahifeler",
+      title: "Cedîden ta’dîl olunan sahifeler",
       seeRemainingMore: ({ remaining }) => `${remaining} aded dahi gör →`,
     },
     transcludes: {
@@ -49,7 +51,7 @@ export default {
     search: {
       title: "Tetebbû'",
       searchBarPlaceholder: "Tetebbû' eyle",
-          },
+    },
     tableOfContents: {
       title: "Münderecât",
     },
@@ -59,14 +61,14 @@ export default {
   },
   pages: {
     rss: {
-      recentNotes: "Cedîden eklenen sahifeler",
+      recentNotes: "Cedîden ta’dîl olunan sahifeler",
       lastFewNotes: ({ count }) => `Cedîd ${count} sahife`,
     },
     error: {
       title: "Sahife Bulunamadı",
       notFound: "Aradığınız sahife ya mestûr yahut mahv olmuş olabilir.",
       home: "Esâs Sahifeye Rücû' Et",
-        },
+    },
     folderContent: {
       folder: "Mahfaza",
       itemsUnderFolder: ({ count }) => `Mahfaza dâhilinde ${count} sahife mevcûddur`,
@@ -77,6 +79,6 @@ export default {
       itemsUnderTag: ({ count }) => `Bu alâmeti hâiz ${count} sahife`,
       showingFirst: ({ count }) => `Evvelâ ${count} alâmet`,
       totalTags: ({ count }) => `Cem'an ${count} alâmet`,
-        },
+    },
   },
 } as const satisfies Translation

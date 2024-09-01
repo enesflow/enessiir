@@ -18,9 +18,9 @@ interface Options {
 }
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
-  limit: 3,
+  limit: 25,
   linkToMore: false,
-  showTags: true,
+  showTags: false,
   filter: (f) => true,
   sort: byDateAndAlphabetical(cfg),
 })
@@ -38,7 +38,7 @@ export default ((userOpts?: Partial<Options>) => {
     return (
       <div class={classNames(displayClass, "recent-notes")}>
         <h3>{opts.title ?? i18n(cfg.locale).components.recentNotes.title}</h3>
-        <ul class="recent-ul">
+        <ul class="recent-ul overflow">
           {pages.slice(0, opts.limit).map((page) => {
             const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
             const tags = page.frontmatter?.tags ?? []
@@ -46,17 +46,15 @@ export default ((userOpts?: Partial<Options>) => {
             return (
               <li class="recent-li">
                 <div class="section">
-                  <div class="desc">
-                    <h3>
-                      <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                        {title}
-                      </a>
-                    </h3>
-                  </div>
+                  <span class="desc">
+                    <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                      {title}
+                    </a>
+                  </span>
                   {page.dates && (
-                    <p class="meta">
-                      <Date date={getDate(cfg, page)!} locale={cfg.locale} />
-                    </p>
+                    <span class="meta">
+                      <Date date={getDate(cfg, page)!} locale={cfg.locale} dontAddLastModified />
+                    </span>
                   )}
                   {opts.showTags && (
                     <ul class="tags">
@@ -80,7 +78,9 @@ export default ((userOpts?: Partial<Options>) => {
         {opts.linkToMore && remaining > 0 && (
           <p>
             <a href={resolveRelative(fileData.slug!, opts.linkToMore)}>
-              {i18n(cfg.locale).components.recentNotes.seeRemainingMore({ remaining })}
+              {i18n(cfg.locale).components.recentNotes.seeRemainingMore({
+                remaining,
+              })}
             </a>
           </p>
         )}
