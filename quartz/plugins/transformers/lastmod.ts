@@ -128,7 +128,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 }
               }
             }
-            console.log("==--==", "dates", { created, modified, published })
+            if (isCile) console.log("==--==", "dates", { created, modified, published })
             file.data.dates = {
               created: coerceDate(fp, created),
               modified: coerceDate(fp, modified),
