@@ -44,7 +44,7 @@ function newBuildId() {
 }
 
 export const REPO_URL = "https://github.com/enesflow/enessiir.git"
-export const CLONE_PATH = path.join(import.meta.dirname, "enessiiir")
+export const CLONE_PATH = path.join(import.meta.dirname || __dirname, "enessiir")
 
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const cloneResult = await execa("sh", ["-c", `git clone ${REPO_URL} ${CLONE_PATH}`])
