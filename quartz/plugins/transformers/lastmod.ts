@@ -38,9 +38,11 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
           let repo: Repository | undefined = undefined
           return async (_tree, file) => {
             const repositoryName = "https://github.com/enesflow/enessiir.git"
-            const clonePath = "/opt/buildhome/repo/tmp/enessiir"
+            const clonePath = "/opt/buildhome/repo/very-temporary/enessiir"
             // first create the path
-            await fs.promises.mkdir(clonePath, { recursive: true })
+            await fs.promises.mkdir(clonePath.split("/").slice(0, -1).join("/"), {
+              recursive: true,
+            })
             const cloneResult = await execa("sh", [
               "-c",
               `git clone ${repositoryName} ${clonePath}`,
