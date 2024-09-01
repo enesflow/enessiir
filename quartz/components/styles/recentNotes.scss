@@ -14,13 +14,8 @@
         display: flex;
         justify-content: space-between;
         width: 100%;
+        gap: 0.4rem;
       }
-      /* .section > .desc > a {
-        background-color: transparent;
-        color: var(--dark);
-        pointer-events: all;
-        opacity: .75;
-      } */
 
       .section > .meta {
         margin: 0 0 0.5rem 0;
