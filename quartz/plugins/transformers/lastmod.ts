@@ -3,6 +3,7 @@ import path from "path"
 import { Repository } from "@napi-rs/simple-git"
 import { QuartzTransformerPlugin } from "../types"
 import chalk from "chalk"
+import { exec } from "child_process"
 
 export interface Options {
   priority: ("frontmatter" | "git" | "filesystem")[]
@@ -109,6 +110,16 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   if (isCile)
                     console.log("==--== Rediscovered repo", repo, repo.workdir(), file.cwd)
                 } else if (isCile) console.log("==--==", "git repo", repo, repo.workdir())
+
+                if (isCile) {
+                  console.log("EXECUTING EXEC COMMAND")
+                  const command = `git log -1 --pretty="format:%ci" ${repo.workdir()}/${fp}`
+                  console.log("COMMAND", command)
+                  exec(command, (err, stdout, stderr) => {
+                    console.log("STDERR", stderr)
+                    console.log("STDOUT", stdout)
+                  })
+                }
                 try {
                   modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
                   if (isCile)
