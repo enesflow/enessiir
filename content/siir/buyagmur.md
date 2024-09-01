@@ -10,7 +10,7 @@ Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] şiiri
 Bu yağmur, bu yağmur, bu kıldan ince,
 Nefesten yumuşak, yağan bu yağmur.
 Bu yağmur, bu yağmur, bir gün dinince,
-Aynalar yüzünü tanımaz olur.
+Aynalar yüzümü tanımaz olur.
 
 Bu yağmur, kanımı boğan bir iplik,
 Tenimde acısız yatan bir bıçak,
