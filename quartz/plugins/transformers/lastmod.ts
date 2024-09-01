@@ -122,7 +122,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   // I don't think this is possible, the only date I am getting is the current date!
                   // On my pc I get the correct result but not on the server (cloudflare pages)
                   // I think I will clone the repo again
-                  const repositoryName = "enesflow/enessiir"
+                  const repositoryName = "https://github.com/enesflow/enessiir.git"
                   const clonePath = "/tmp/enessiir"
                   const command = `git clone ${repositoryName} ${clonePath}`
                   const command2 = `git log -4 --pretty="format:%ci" ${clonePath}/${fp}`
