@@ -17,6 +17,8 @@ Bir [[sair/mehmetakif|Mehmet Âkif Ersoy]]
 ## Şiirler
 ### Safahat
 - [[siir/hasta|Hasta]]
+### Hakkın Sesleri
+- [[siir/ayetmealizumer9|Âyet Meâli (Zümer, 9)]]
 ### Hâtıralar
 - [[siir/uyan|Uyan!]]
 ### Gölgeler

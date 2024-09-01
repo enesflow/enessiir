@@ -12,3 +12,4 @@ title: Nâzım Hikmet
 - [[siir/bessatirla|Beş Satırla]]
 ### Yeni Şiirler
 - [[siir/vasiyet|Vasiyet]]
+- [[siir/kizcocugu|Kız Çocuğu]]
