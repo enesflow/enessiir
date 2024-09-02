@@ -25,9 +25,9 @@ Ay karanlık...
 İtten aç,  
 Yılandan çıplak,  
 Vurgun ve belâ  
-Gelip durmuşsam kapma 
+Gelip durmuşsam kapına 
 Var mı ki doymazlığım? 
-İlle de ille  
+İlle de ille  
 Sevmelerim,  
 Sevmelerim gibisi? 
 Oturmuş yazıcılar 
