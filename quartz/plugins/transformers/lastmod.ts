@@ -47,13 +47,20 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
               if (source === "filesystem") {
                 const st = await fs.promises.stat(fullFp)
                 created ||= st.birthtimeMs
+                console.log(fp, "fs-created", created)
                 modified ||= st.mtimeMs
+                console.log(fp, "fs-modified", modified)
               } else if (source === "frontmatter" && file.data.frontmatter) {
                 created ||= file.data.frontmatter.date as MaybeDate
+                console.log(fp, "fm-created", created)
                 modified ||= file.data.frontmatter.lastmod as MaybeDate
+                console.log(fp, "fm-modified", modified)
                 modified ||= file.data.frontmatter.updated as MaybeDate
+                console.log(fp, "fm-updated", modified)
                 modified ||= file.data.frontmatter["last-modified"] as MaybeDate
+                console.log(fp, "fm-last-modified", modified)
                 published ||= file.data.frontmatter.publishDate as MaybeDate
+                console.log(fp, "fm-published", published)
               } else if (source === "git") {
                 if (!repo) {
                   // Get a reference to the main git repo.
