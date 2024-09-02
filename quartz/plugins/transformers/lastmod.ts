@@ -70,25 +70,24 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   // or 1+ level higher in case of a submodule/subtree setup
                   // repo = Repository.discover(file.cwd)
                   repo = new Repository(CLONE_PATH)
-
-                  try {
-                    const m = await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
-                    modified ||= m
-                    console.log(
-                      fp,
-                      m,
-                      modified,
-                      new Date(m).toLocaleString(),
-                      new Date(modified as number).toLocaleString(),
-                    )
-                  } catch {
-                    console.log(
-                      chalk.yellow(
-                        `\nWarning: ${file.data
-                          .filePath!} isn't yet tracked by git, last modification date is not available for this file`,
-                      ),
-                    )
-                  }
+                }
+                try {
+                  const m = await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
+                  modified ||= m
+                  console.log(
+                    fp,
+                    m,
+                    modified,
+                    new Date(m).toLocaleString(),
+                    new Date(modified as number).toLocaleString(),
+                  )
+                } catch {
+                  console.log(
+                    chalk.yellow(
+                      `\nWarning: ${file.data
+                        .filePath!} isn't yet tracked by git, last modification date is not available for this file`,
+                    ),
+                  )
                 }
               }
               file.data.dates = {
