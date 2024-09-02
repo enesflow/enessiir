@@ -24,7 +24,7 @@ export function getDate(cfg: GlobalConfiguration, data: QuartzPluginData): Date 
 
 export function formatDate(
   d: Date,
-  locale: ValidLocale = "en-US",
+  locale: ValidLocale = "tr-TR",
   showTime: boolean = true,
   relative = false,
 ): string {
@@ -56,6 +56,7 @@ export function formatDate(
       day: "2-digit",
       hour: showTime ? "numeric" : undefined,
       minute: showTime ? "numeric" : undefined,
+      timeZone: "Europe/Istanbul",
     })
     return `${LAST_MODIFIED_TR}: ${date}`
   }
