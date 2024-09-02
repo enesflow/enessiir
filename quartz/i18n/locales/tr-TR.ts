@@ -1,8 +1,8 @@
 import { Translation } from "./definition"
 
 export const LAST_MODIFIED_TR = "Cedîden tecdîd"
-export const LAST_MODIFIED_TR_SHORT = "C.t."
-export const BEFORE_TR = "evvel"
+// export const LAST_MODIFIED_TR_SHORT = "C.t."
+export const LAST_MODIFIED_TR_SHORT = "Ct"
 
 export default {
   propertyDefaults: {

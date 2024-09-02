@@ -1,10 +1,8 @@
-import { FullSlug, resolveRelative } from "../util/path"
+import { GlobalConfiguration } from "../cfg"
 import { QuartzPluginData } from "../plugins/vfile"
+import { FullSlug, resolveRelative } from "../util/path"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
-import { GlobalConfiguration } from "../cfg"
-import { i18n } from "../i18n"
-import { BEFORE_TR } from "../i18n/locales/tr-TR"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
@@ -50,7 +48,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
             <div class="section">
               {page.dates && (
                 <p class="meta">
-                  <Date date={getDate(cfg, page)!} locale={cfg.locale} relative /> {BEFORE_TR}
+                  <Date date={getDate(cfg, page)!} locale={cfg.locale} text="short" />
                 </p>
               )}
               <div class="desc">

@@ -7,10 +7,8 @@ interface Props {
   date: Date
   locale?: ValidLocale
   showTime?: boolean
-  text?: string
-  // TODO, yeah this "relative" thing will never work because the pages are static...
+  text?: "normal" | "short" | "none"
   relative?: boolean
-  short?: boolean
 }
 
 export type ValidDateType = keyof Required<QuartzPluginData>["dates"]
@@ -28,8 +26,8 @@ export function formatDate(
   d: Date,
   locale: ValidLocale = "tr-TR",
   showTime: boolean = true,
+  text: "normal" | "short" | "none" = "normal",
   relative = false,
-  short?: boolean,
 ): string {
   if (relative) {
     let data = Math.ceil((d.getTime() - Date.now()) / 1000)
@@ -61,12 +59,14 @@ export function formatDate(
       minute: showTime ? "numeric" : undefined,
       timeZone: "Europe/Istanbul",
     })
-    return `${short ? LAST_MODIFIED_TR_SHORT : LAST_MODIFIED_TR}: ${date}`
+    if (text === "none") return date
+    if (text === "short") return `${LAST_MODIFIED_TR_SHORT}: ${date}`
+    return `${LAST_MODIFIED_TR}: ${date}`
   }
 }
 
-function DateComponent({ date, locale, showTime, relative, short }: Props) {
-  return <>{formatDate(date, locale, showTime, relative, short)}</>
+function DateComponent({ date, locale, showTime, relative, text }: Props) {
+  return <>{formatDate(date, locale, showTime, text, relative)}</>
 }
 
 export { DateComponent as Date }
