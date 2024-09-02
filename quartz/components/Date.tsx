@@ -1,6 +1,6 @@
 import { GlobalConfiguration } from "../cfg"
 import { ValidLocale } from "../i18n"
-import { LAST_MODIFIED_TR } from "../i18n/locales/tr-TR"
+import { LAST_MODIFIED_TR, LAST_MODIFIED_TR_SHORT } from "../i18n/locales/tr-TR"
 import { QuartzPluginData } from "../plugins/vfile"
 
 interface Props {
@@ -9,6 +9,7 @@ interface Props {
   showTime?: boolean
   text?: string
   relative?: boolean
+  short?: boolean
 }
 
 export type ValidDateType = keyof Required<QuartzPluginData>["dates"]
@@ -27,6 +28,7 @@ export function formatDate(
   locale: ValidLocale = "tr-TR",
   showTime: boolean = true,
   relative = false,
+  short?: boolean,
 ): string {
   if (relative) {
     let data = Math.ceil((d.getTime() - Date.now()) / 1000)
@@ -58,12 +60,12 @@ export function formatDate(
       minute: showTime ? "numeric" : undefined,
       timeZone: "Europe/Istanbul",
     })
-    return `${LAST_MODIFIED_TR}: ${date}`
+    return `${short ? LAST_MODIFIED_TR_SHORT : LAST_MODIFIED_TR}: ${date}`
   }
 }
 
-function DateComponent({ date, locale, showTime, relative }: Props) {
-  return <>{formatDate(date, locale, showTime, relative)}</>
+function DateComponent({ date, locale, showTime, relative, short }: Props) {
+  return <>{formatDate(date, locale, showTime, relative, short)}</>
 }
 
 export { DateComponent as Date }
