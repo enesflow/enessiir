@@ -63,12 +63,13 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   repo = new Repository(CLONE_PATH)
 
                   try {
-                    modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
+                    const m = await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
+                    modified ||= m
                     console.log(
                       fp,
-                      new Date(
-                        await repo.getFileLatestModifiedDateAsync(file.data.filePath!),
-                      ).toLocaleString(),
+                      m,
+                      modified,
+                      new Date(m).toLocaleString(),
                       new Date(modified as number).toLocaleString(),
                     )
                   } catch {
