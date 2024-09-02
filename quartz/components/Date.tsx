@@ -8,6 +8,7 @@ interface Props {
   locale?: ValidLocale
   showTime?: boolean
   text?: string
+  // TODO, yeah this "relative" thing will never work because the pages are static...
   relative?: boolean
   short?: boolean
 }
