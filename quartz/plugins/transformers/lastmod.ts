@@ -45,6 +45,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
             const fp = file.data.filePath!
             const fullFp = path.isAbsolute(fp) ? fp : path.posix.join(CLONE_PATH, fp)
             for (const source of opts.priority) {
+              console.log("now at", source)
               if (source === "filesystem") {
                 const st = await fs.promises.stat(fullFp)
                 created ||= st.birthtimeMs
