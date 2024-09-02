@@ -29,14 +29,24 @@ export function formatDate(
   relative = false,
 ): string {
   if (relative) {
-    // format as hours
-    let data = Math.ceil((d.getTime() - Date.now()) / 1000 / 60 / 60)
-    const isHours = Math.abs(data) < 24
-    if (!isHours) data = Math.ceil(data / 24)
+    let data = Math.ceil((d.getTime() - Date.now()) / 1000)
+    let unit: Intl.RelativeTimeFormatUnit = "second"
+    if (Math.abs(data) >= 60) {
+      data = Math.ceil(data / 60)
+      unit = "minute"
+    }
+    if (Math.abs(data) >= 60) {
+      data = Math.ceil(data / 60)
+      unit = "hour"
+    }
+    if (Math.abs(data) >= 24) {
+      data = Math.ceil(data / 24)
+      unit = "day"
+    }
     return new Intl.RelativeTimeFormat(locale, {
       style: "short",
     })
-      .format(data, isHours ? "hour" : "day")
+      .format(data, unit)
       .replace(/\s+önce$/, "")
   }
   {
