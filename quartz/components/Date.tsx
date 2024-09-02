@@ -8,7 +8,7 @@ interface Props {
   locale?: ValidLocale
   showTime?: boolean
   text?: string
-  dontAddLastModified?: boolean
+  relative?: boolean
 }
 
 export type ValidDateType = keyof Required<QuartzPluginData>["dates"]
@@ -26,19 +26,33 @@ export function formatDate(
   d: Date,
   locale: ValidLocale = "en-US",
   showTime: boolean = true,
-  dontAddLastModified = false,
+  relative = false,
 ): string {
-  const date = d.toLocaleDateString(locale, {
-    year: "numeric",
-    month: "short",
-    day: "2-digit",
-    hour: showTime ? "numeric" : undefined,
-    minute: showTime ? "numeric" : undefined,
-  })
-  const text = dontAddLastModified ? undefined : LAST_MODIFIED_TR
-  return text ? `${text}: ${date}` : date
+  if (relative) {
+    // format as hours
+    let data = Math.ceil((d.getTime() - Date.now()) / 1000 / 60 / 60)
+    const isHours = Math.abs(data) < 24
+    if (!isHours) data = Math.ceil(data / 24)
+    return new Intl.RelativeTimeFormat(locale, {
+      style: "short",
+    })
+      .format(data, isHours ? "hour" : "day")
+      .replace(/\s+önce$/, "")
+  }
+  {
+    const date = d.toLocaleDateString(locale, {
+      year: "numeric",
+      month: "short",
+      day: "2-digit",
+      hour: showTime ? "numeric" : undefined,
+      minute: showTime ? "numeric" : undefined,
+    })
+    return `${LAST_MODIFIED_TR}: ${date}`
+  }
 }
 
-export function Date({ date, locale, showTime, dontAddLastModified }: Props) {
-  return <>{formatDate(date, locale, showTime, dontAddLastModified)}</>
+function DateComponent({ date, locale, showTime, relative }: Props) {
+  return <>{formatDate(date, locale, showTime, relative)}</>
 }
+
+export { DateComponent as Date }
