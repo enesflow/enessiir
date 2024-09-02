@@ -64,6 +64,13 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
                   try {
                     modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
+                    console.log(
+                      fp,
+                      new Date(
+                        await repo.getFileLatestModifiedDateAsync(file.data.filePath!),
+                      ).toLocaleString(),
+                      new Date(modified as number).toLocaleString(),
+                    )
                   } catch {
                     console.log(
                       chalk.yellow(
