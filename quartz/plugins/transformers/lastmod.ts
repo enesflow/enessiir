@@ -14,8 +14,9 @@ const defaultOptions: Options = {
 }
 
 function coerceDate(fp: string, d: any): Date {
+  d ??= 0
   const dt = new Date(d)
-  const invalidDate = isNaN(dt.getTime()) || dt.getTime() === 0
+  const invalidDate = isNaN(dt.getTime()) /*  || dt.getTime() === 0 */
   if (invalidDate && d !== undefined) {
     console.log(
       chalk.yellow(
