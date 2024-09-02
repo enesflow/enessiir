@@ -2,7 +2,7 @@
 title: Safahat
 ---
 
-Bir [[sair/mehmetakif|Mehmet Âkif Ersoy]]
+Bir [[sair/mehmetakif|Mehmet Âkif Ersoy]] kitabı
 
 [Vikipedi](https://tr.wikipedia.org/wiki/Safahat)
 > Safahat , Mehmet Âkif Ersoy'un 1911-1933 yılları arasında yayımladığı yedi şiir kitabındaki şiirleri bir araya getiren eserdir.
