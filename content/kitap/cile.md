@@ -14,3 +14,13 @@ Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] kitabı
 - [[siir/babadanogula|Babadan Oğula]]
 ### Hafakan
 - [[siir/buyagmur|Bu Yağmur]]
+## Daussıla
+- [[siir/takvimdekideniz|Takvimdeki Deniz]]
+## Kadın
+- [[siir/beklenen|Beklenen]]
+- [[siir/bekleyen|Bekleyen]]
+- [[siir/donemec|Dönemeç]]
+## Şehir
+- [[siir/kaldirimlar|Kaldırımlar]]
+## Ukde
+- [[siir/gecendakikalarim|Geçen Dakikalarım]]

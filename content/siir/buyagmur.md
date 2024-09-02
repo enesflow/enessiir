@@ -17,7 +17,7 @@ Tenimde acısız yatan bir bıçak,
 Bu yağmur, yerde taş ve bende kemik,
 Dayandıkça çisil çisil yağacak.
 
-Bu yağmur, delilik vehminden üstün,
+Bu yağmur, delilik [[kelime/vehim|vehm]]inden üstün,
 Karanlık, kovulmaz düşüncelerden.
 Cinlerin beynimde yaptığı düğün,
 Sulardan, seslerden ve gecelerden....
