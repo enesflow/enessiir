@@ -41,7 +41,11 @@ export function formatDate(
 }
 
 function DateComponent({ date, locale, showTime, text }: Props) {
-  return <>{formatDate(date, locale, showTime, text)}</>
+  return (
+    <span style="font-family: monospace !important; font-weight: bold;">
+      {formatDate(date, locale, showTime, text)}
+    </span>
+  )
 }
 
 export { DateComponent as Date }

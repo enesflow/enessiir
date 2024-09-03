@@ -7,11 +7,11 @@ ul.section-ul {
 }
 
 li.section-li {
-  margin-bottom: 1em;
+  margin-bottom: 0.4em;
 
   & > .section {
     display: grid;
-    grid-template-columns: fit-content(8em) 3fr 1fr;
+    grid-template-columns: fit-content(12em) 3fr 1fr;
 
     @media all and (max-width: $mobileBreakpoint) {
       & > .tags {
