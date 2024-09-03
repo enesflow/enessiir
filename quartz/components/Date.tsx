@@ -8,7 +8,6 @@ interface Props {
   locale?: ValidLocale
   showTime?: boolean
   text?: "normal" | "short" | "none"
-  relative?: boolean
 }
 
 export type ValidDateType = keyof Required<QuartzPluginData>["dates"]
@@ -27,46 +26,22 @@ export function formatDate(
   locale: ValidLocale = "tr-TR",
   showTime: boolean = true,
   text: "normal" | "short" | "none" = "normal",
-  relative = false,
 ): string {
-  if (relative) {
-    let data = Math.ceil((d.getTime() - Date.now()) / 1000)
-    let unit: Intl.RelativeTimeFormatUnit = "second"
-    if (Math.abs(data) >= 60) {
-      data = Math.ceil(data / 60)
-      unit = "minute"
-    }
-    if (Math.abs(data) >= 60) {
-      data = Math.ceil(data / 60)
-      unit = "hour"
-    }
-    if (Math.abs(data) >= 24) {
-      data = Math.ceil(data / 24)
-      unit = "day"
-    }
-    return new Intl.RelativeTimeFormat(locale, {
-      style: "short",
-    })
-      .format(data, unit)
-      .replace(/\s+önce$/, "")
-  }
-  {
-    const date = d.toLocaleDateString(locale, {
-      year: "numeric",
-      month: "short",
-      day: "2-digit",
-      hour: showTime ? "numeric" : undefined,
-      minute: showTime ? "numeric" : undefined,
-      timeZone: "Europe/Istanbul",
-    })
-    if (text === "none") return date
-    if (text === "short") return `${LAST_MODIFIED_TR_SHORT}: ${date}`
-    return `${LAST_MODIFIED_TR}: ${date}`
-  }
+  const date = d.toLocaleDateString(locale, {
+    year: "numeric",
+    month: "short",
+    day: "2-digit",
+    hour: showTime ? "numeric" : undefined,
+    minute: showTime ? "numeric" : undefined,
+    timeZone: "Europe/Istanbul",
+  })
+  if (text === "none") return date
+  if (text === "short") return `${LAST_MODIFIED_TR_SHORT}: ${date}`
+  return `${LAST_MODIFIED_TR}: ${date}`
 }
 
-function DateComponent({ date, locale, showTime, relative, text }: Props) {
-  return <>{formatDate(date, locale, showTime, text, relative)}</>
+function DateComponent({ date, locale, showTime, text }: Props) {
+  return <>{formatDate(date, locale, showTime, text)}</>
 }
 
 export { DateComponent as Date }
