@@ -3,7 +3,7 @@ title: '"Tâk" ne demek?'
 ---
 
 ## Tâk
-([[farsca|Farsça]]) Millî bayram ve şenliklerde caddelere geçici olarak kurulan süslü kemer
+([[arapca|Arapça]]) Millî bayram ve şenliklerde caddelere geçici olarak kurulan süslü kemer
 
 ![[public/tak.jpg|400]]
 ---
