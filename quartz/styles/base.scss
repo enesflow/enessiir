@@ -232,8 +232,11 @@ a {
 }
 
 .footnotes {
-  margin-top: 2rem;
-  border-top: 1px solid var(--lightgray);
+  // margin-top: 2rem;
+  // border-top: 1px solid var(--lightgray);
+  & > h2 {
+    display: none;
+  }
 }
 
 input[type="checkbox"] {
