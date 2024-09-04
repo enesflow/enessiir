@@ -1,10 +1,11 @@
-import { formatDate, getDate } from "./Date"
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import readingTime from "reading-time"
-import { classNames } from "../util/lang"
-import { i18n } from "../i18n"
 import { JSX } from "preact"
+import readingTime from "reading-time"
+import { REPO_URL } from "../build"
+import { i18n } from "../i18n"
+import { classNames } from "../util/lang"
+import { formatDate, getDate } from "./Date"
 import style from "./styles/contentMeta.scss"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 interface ContentMetaOptions {
   /**
@@ -30,7 +31,21 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+        segments.push(
+          <>
+            {i18n(cfg.locale).lastModified}:{" "}
+            <a
+              href={
+                REPO_URL.replace(/\.git(\/)*$/, "") +
+                "/commits/main/content/" +
+                fileData.slug +
+                ".md"
+              }
+            >
+              {formatDate(getDate(cfg, fileData)!, cfg.locale, true, "none")}
+            </a>
+          </>,
+        )
       }
 
       // Display reading time if enabled
