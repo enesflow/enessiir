@@ -28,9 +28,9 @@ export function formatDate(
   text: "normal" | "short" | "none" = "normal",
 ): string {
   const date = d.toLocaleDateString(locale, {
-    year: "numeric",
-    month: "short",
-    day: "2-digit",
+    year: "2-digit",
+    month: "numeric",
+    day: "numeric",
     hour: showTime ? "numeric" : undefined,
     minute: showTime ? "numeric" : undefined,
     timeZone: "Europe/Istanbul",
