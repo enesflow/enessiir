@@ -1,6 +1,6 @@
 import { Translation } from "./definition"
 
-export const LAST_MODIFIED_TR = "Cedîden tecdîd"
+export const LAST_MODIFIED_TR = "Cedîden ta’dîl"
 // export const LAST_MODIFIED_TR_SHORT = "C.t."
 export const LAST_MODIFIED_TR_SHORT = "Ct"
 
