@@ -7,7 +7,7 @@ Bir [[sair/mehmetakif|Mehmet Âkif Ersoy]] şiiri
 ---
 
 ## Hasta
-*“Vak’a Halkalı Ziraat Mektebi’nde geçmiştir.”*
+*“Vak'a Halkalı Ziraat Mektebi'nde geçmiştir.”*
 
 – Bence, doktor, onu siz bir soyarak dinleyiniz;  
 Hastalık çünkü değil öyle ehemmiyyetsiz,  
@@ -17,15 +17,15 @@ Ameliyyâta çıkarken sınıf on gün evvel,
 Bu da gelmez mi, dedim: “Kim dedi, oğlum, sana, gel?  
 Nöbet üstünde adam kaçmalı yorgunluktan,  
 Hadi yavrum, hadi söz dinle de bir parça uzan.”  
-O zamandan beridir za’fı [[kelime/terakki#Terakkî|terakkî]] ediyor;  
+O zamandan beridir za'fı [[kelime/terakki#Terakkî|terakkî]] ediyor;  
 Görünen: Bir daha kalkınması artık pek zor.  
 Uyku yokmuş; gece hep öksürüyormuş; ateşin  
 Olmuyormuş azıcık dindiği...  
       – Ben zâten işin,  
 Bir ay evvel biliyordum ne vahim olduğunu...  
 Bana [[kelime/ihtar#İhtar|ihtâr]]a ne hacet, a beyim, şimdi bunu?  
-[[kelime/mamafih#Ma’amâfih|Ma’amâfih]] yeniden bir bakalım dikkatle:  
-Hükm-i kat’î verelim, etmeye gelmez acele.  
+[[kelime/mamafih#Ma'amâfih|Ma'amâfih]] yeniden bir bakalım dikkatle:  
+Hükm-i kat'î verelim, etmeye gelmez acele.  
 – Çağırın hastayı gelsin.  
       Kapının perdesini  
 Açarak girdi o esnâda düzeltip fesini,  
@@ -51,7 +51,7 @@ Yoktu. Zannımca [[kelime/tabib#Tabîb|tabîb]]in coşarak merhameti,
 “Bakmasak hastayı [[kelime/nevmid#Nevmîd|nevmîd]] ederiz belki” diye;  
 Çocuğun göğsüne yaklaştı biraz dinlemeye:  
 – Öksür oğlum... Nefes al... Alma nefes... Oldu, giyin;  
-Bakayım nabzına... A’lâ... Sana yavrum, [[kelime/kodein#Kodein|kodein]]  
+Bakayım nabzına... A'lâ... Sana yavrum, [[kelime/kodein#Kodein|kodein]]  
 Yazayım, öksürüyorsun, o keser, pek iyidir...  
 Arsenik hapları al, söylerim eczâcı verir.
 
@@ -59,10 +59,10 @@ Hadi git kendine iyi bak...
       – Nasıl ettin doktor?  
 – Edecek yok, çocuk artık yola girmiş, gidiyor!  
 Sol taraftan [[kelime/rie#Rie|rie]]nin zirvesi [[kelime/tekmil#Tekmil|tekmil]] çürümüş;  
-Hastalık seyr-i tabî’îsini almış yürümüş.  
-Devr-i [[kelime/salis#Sâlis|sâlis]]teki [[kelime/asar#Âsâr|âsâr]]ı o [[kelime/melun#Mel'ûn|mel’ûn]] [[kelime/maraz#Maraz|maraz]]ın  
+Hastalık seyr-i tabî'îsini almış yürümüş.  
+Devr-i [[kelime/salis#Sâlis|sâlis]]teki [[kelime/asar#Âsâr|âsâr]]ı o [[kelime/melun#Mel'ûn|mel'ûn]] [[kelime/maraz#Maraz|maraz]]ın  
 Var tamamiyle, değil hiçbiri eksik [[kelime/araz#Araz|araz]]ın.  
-Bütün [[kelime/araz#Araz|a’râz]], [[kelime/sehik#Şehîk|şehîk]]ıyle, [[kelime/zefir#Zefîr|zefîr]]iyle.
+Bütün [[kelime/araz#Araz|a'râz]], [[kelime/sehik#Şehîk|şehîk]]ıyle, [[kelime/zefir#Zefîr|zefîr]]iyle.
       – Yeter!  
 Hastanın çehresi meydanda ya! İnsanda meğer  
 Olmasın his denilen şey... O değil, lâkin biz  
@@ -74,14 +74,14 @@ Kime dert anlatırız? Bulsana dert anlayanı!
 – Sözünüz doğru Müdür Bey; ne yapıp yapmalı; tek  
 Bu çocuk gitmelidir. Çünkü, emînim, pek pek,  
 Daha bir hafta yaşar, sonra [[kelime/sirayet#Sirâyet|sirâyet]] de olur;  
-Böyle bir hastayı gönderse de mektep [[kelime/mazur#Ma'zûr|ma’zûr]].  
+Böyle bir hastayı gönderse de mektep [[kelime/mazur#Ma'zûr|ma'zûr]].  
 – Bir [[kelime/mubassır#Mubassır|mubassır]] çağırın.  
       – Buyrun efendim.  
             – Bana bak:  
 Hastanın gitmesi her hâlde [[kelime/muvafik#Muvâfık|muvâfık]] olacak.  
 “Sana tebdîl-i havâ tavsiye etmiş doktor.  
 Gezmiş olsan açılırsın...” diye bir fikrini sor.  
-‘İstemem!‘ der o, fakat dinleme, iknâ’a çalış:  
+‘İstemem!‘ der o, fakat dinleme, iknâ'a çalış:  
 Kim bilir, belki de bîçâre çocuk anlamamış?
 
 \* * *
@@ -102,7 +102,7 @@ Kardeşim! Kurduğum [[kelime/amal#Âmâl|âmâl]]i devirmekte ölüm;
 Beni göm [[kelime/hufre#Hufre|hufre]]-i [[kelime/nisyan#Nisyân|nisyân]]a, ben artık öldüm!  
 Hangi bir derdim için ağlayayım, bilmiyorum.  
 Döktüğüm yaşları çok görmeyiniz: Mağdûrum!  
-O kadar [[kelime/say#Sa'y|sa’y]]-i [[kelime/belig#Beliğ|belîğ]]in bu sefâlet mi sonu?  
+O kadar [[kelime/say#Sa'y|sa'y]]-i [[kelime/belig#Beliğ|belîğ]]in bu sefâlet mi sonu?  
 Biri evvelce eğer söylemiş olsaydı bunu,  
 Çalışıp ömrümü çılgınca hebâ etmezdim,  
 Ben bu müstakbele [[kelime/mazi#Mâzî|mâzî]]mi fedâ etmezdim!  
@@ -119,11 +119,11 @@ Doğrudur, gitmeliyim... Koşturunuz bir araba.
 Son sınıftan iki vicdanlı [[kelime/refik#Refîk|refîk]]in koluna  
 Dayanıp çıktı o bîçâre sefâlet yoluna,  
 Atarak arkaya bir [[kelime/lemha#Lemha|lemha]]-i [[kelime/lebriz#Lebrîz|lebrîz]]-i elem,  
-Onu [[kelime/tebid#Teb'îd|teb’îd]] edecek [[kelime/payton#Payton|payton]]a yaklaştı “verem!”  
+Onu [[kelime/tebid#Teb'îd|teb'îd]] edecek [[kelime/payton#Payton|payton]]a yaklaştı “verem!”  
 Tuttu bindirdi çocuklar sararak her yerini,  
 Öptüler [[kelime/girye#Girye|girye]]-i mâtem dökerek gözlerini:  
 – Çekiver doğruca istasyona...  
       – Yok, yok, beni tâ,  
-Götür İstanbul’a bir yerde bırak ki: [[kelime/gureba#Gurebâ|Gurebâ]],  
+Götür İstanbul'a bir yerde bırak ki: [[kelime/gureba#Gurebâ|Gurebâ]],  
 -Kimsenin onlara aldırmadığı bir sırada-  
 Uzanıp ölmeye bir [[kelime/silte#Şilte|şilte]] bulurlar orada!

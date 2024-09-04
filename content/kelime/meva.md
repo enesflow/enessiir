@@ -1,9 +1,9 @@
 ---
-title: '"Me’vâ" ne demek?'
+title: '"Me'vâ" ne demek?'
 ---
 
-## Me’vâ
+## Me'vâ
 ([[arapca|Arapça]]) Sığınacak yer, makam, yurt, mesken
 
 ---
-*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Me’vâ)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Me'vâ)*

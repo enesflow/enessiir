@@ -19,7 +19,7 @@ Hak'dan nizâm-ı âlemi te'mîne er gelür
 [[kelime/cibril#Cibril|Cibrîl]]'i gördüler nice demdir gider gelür
 
 [[kelime/derk#Derk|Derk]] ettiler ki [[kelime/merkad#Merkad|merkad]]-i pâk-î Muhammed'e
-Rûhü'l-[[kelime/kudus#Kudüs|kudüs]]'le arş-ı [[kelime/huda#Hudâ|Hudâ]]'dan haber gelür
+Rûhü'l-[[kelime/kudus#Kudüs|kudüs]]'le [[kelime/ars|arş]]-ı [[kelime/huda#Hudâ|Hudâ]]'dan haber gelür
 
 [[kelime/ruy#Rûy|Rûy]]-î zemîni tâbi-i fermânı kılmağa
 Sultan Selîm Han gibi bir [[kelime/sir#Şîr|şîr]]-i [[kelime/ner#Ner|ner]] gelür
@@ -28,7 +28,7 @@ Sultan Selîm Han gibi bir [[kelime/sir#Şîr|şîr]]-i [[kelime/ner#Ner|ner]] g
 [[kelime/simurg#Sîmurg|Sîmürg]]-i feth [[kelime/hemcu#Hemçü|hem-çü]] [[kelime/nesim#nesîm|nesîm]]-î seher gelür
 
 Hâkan ki at sürünce bir [[kelime/iklim#İklîm|iklîm]]-i düşmene
-[[kelime/pisupes#Pîş ü pes|Pîş ü pesinde]] [[kelime/mahser#Mahşer|mahşer]]-i [[kelime/tig#Tîg|tîg]] ü [[kelime/teber#Teber|teber]] gelür
+[[kelime/pisupes#Pîş ü pes|Pîş ü pesinde]] [[kelime/mahser#Mahşer|mahşer]]-i [[kelime/tig#Tîg|tîg]] [[kelime/u|ü]] [[kelime/teber#Teber|teber]] gelür
 
 Ey [[kelime/gasib#Gāsıb|gāsıb]]-ı diyâr-ı Arab bekle vaktini
 Evvel cezâ-yı saltanat-ı [[kelime/surh#Sürh|sürh]]-[[kelime/ser#Ser|ser]] gelür

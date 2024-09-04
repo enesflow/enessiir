@@ -13,3 +13,4 @@ Bir [[sair/yahyakemal|Yahyâ Kemâl]] kitabı
 - [[siir/baslayis|Başlayış]]
 - [[siir/sefer|Sefer]]
 - [[siir/caldiran|Çaldıran]]
+- [[siir/toplayis|Toplayış]]

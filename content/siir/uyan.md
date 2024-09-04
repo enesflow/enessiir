@@ -38,7 +38,7 @@ Kalkışacaksın demek öldürmeye!
 Sevk ediyormuş meğer insanları, 
 Hakk-ı [[kelime/ubuvvet#Übüvvet|übüvvet]] de bu cânîliğe!
 
-Doğru mudur [[kelime/yes#Ye's|ye’s]] ile olmak [[kelime/tebah#Tebâh|tebâh]]? 
+Doğru mudur [[kelime/yes#Ye's|ye's]] ile olmak [[kelime/tebah#Tebâh|tebâh]]? 
 Yok mu gelip gayrete bir [[kelime/intibah#İntibâh|intibâh]]? 
 Beklediğin [[kelime/subh#Subh|subh]]-i Kıyâmet midir? 
 Gün batıyor, sen arıyorsun sabâh!
@@ -50,8 +50,8 @@ Görmeye, lâkin daha yok niyyetin!
 
 Ey koca [[kelime/sark#Şark|Şark]], ey ebedî [[kelime/meskenet#Meskenet|meskenet]]! 
 Sen de kımıldanmaya bir niyyet et. 
-Korkuyorum, [[kelime/garb#Garb|Garb]]’ın elinden yarın, 
-Kalmayacak çekmediğin [[kelime/melanet#Mel’anet|mel’anet]].
+Korkuyorum, [[kelime/garb#Garb|Garb]]'ın elinden yarın, 
+Kalmayacak çekmediğin [[kelime/melanet#Mel'anet|mel'anet]].
 
 Hakk-ı hayâtın daha çiğnenmeden, 
 Kan dökerek almalısın [[kelime/merd#Merd|merd]] isen. 

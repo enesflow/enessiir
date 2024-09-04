@@ -17,4 +17,4 @@ Olamaz bir hânede [[kelime/mihman#Mihmân|mihmân]] mihmân üstüne
 Yârdan [[kelime/mehcur#Mehcûr|mehcûr]] iken düşdük diyâr-ı gurbete
 [[kelime/dehr#Dehr|Dehr]] gösterdi yine hicrân hicrân üstüne
 Hem [[kelime/mey#Mey|mey]] içmez hem güzel sevmez demişler hakkına
-Eylemişler [[sair/rasih|Râsih]]’e [[kelime/buhtan#Bühtân|bühtân]] bühtân üstüne
+Eylemişler [[sair/rasih|Râsih]]'e [[kelime/buhtan#Bühtân|bühtân]] bühtân üstüne

@@ -2,7 +2,7 @@
 title: '"Bâl ü per" ne demek?'
 ---
 
-## Bâl ü per
+## Bâl [[kelime/u|ü]] per
 ([[farsca|Farsça]]) Bâl ve per, kol ve kanat, kanat
 
 ---

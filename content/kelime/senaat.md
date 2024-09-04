@@ -1,9 +1,9 @@
 ---
-title: '"Şenâ’at" ne demek?'
+title: '"Şenâ'at" ne demek?'
 ---
 
-## Şenâ’at
+## Şenâ'at
 ([[arapca|Arapça]]) Kötülük, fenâlık, alçaklık
 
 ---
-*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Şenâ’at)*
+*Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Şenâ'at)*
