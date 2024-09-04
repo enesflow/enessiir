@@ -12,7 +12,7 @@ Tebrîz'e uçtu feth-i [[kelime/celil|celîl]]in [[kelime/huma|hümâ]]ları
 Bir böyle hâli görmedi Îran semâları
 
 [[kelime/tevhid|Tevhîd]] içün bu halkı döğüşmüş yiğitlerin
-Yüz şehre [[kelime/rekz|rekz]]edildi [[kelime/muzaffer|muzaffer]] [[kelime/liva|livâl]]arı
+Yüz şehre [[kelime/rekz|rekz]]edildi [[kelime/muzaffer|muzaffer]] [[kelime/liva|livâ]]ları
 
 Bir kutba bağlı [[kelime/cumle|cümle]] gönüller bir olmalı
 Mâdâm kâinâtta birdir [[kelime/huda|Hudâ]]ları
