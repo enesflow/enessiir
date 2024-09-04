@@ -104,8 +104,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
           joinSegments(ctx.argv.output, "static/contentIndex.json") as FilePath,
         )
         if (opts?.enableSiteMap) {
-          // graph.addEdge(sourcePath, joinSegments(ctx.argv.output, "sitemap.xml") as FilePath)
-          graph.addEdge(sourcePath, joinSegments(ctx.argv.output, "MySiteMap.xml") as FilePath)
+          graph.addEdge(sourcePath, joinSegments(ctx.argv.output, "sitemap.xml") as FilePath)
         }
         if (opts?.enableRSS) {
           graph.addEdge(sourcePath, joinSegments(ctx.argv.output, "index.xml") as FilePath)
