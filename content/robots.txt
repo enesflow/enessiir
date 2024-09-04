@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://enessiir.pages.dev/sitemap.xml
+Sitemap: https://siir.enesin.xyz/sitemap.xml

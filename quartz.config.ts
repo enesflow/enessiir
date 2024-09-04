@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       tagId: "G-J7GYX80SLJ",
     },
     locale: "tr-TR",
-    baseUrl: "enessiir.pages.dev",
+    baseUrl: "siir.enesin.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
