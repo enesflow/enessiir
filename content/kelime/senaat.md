@@ -1,5 +1,5 @@
 ---
-title: '"Şenâ'at" ne demek?'
+title: "\"Şenâ'at\" ne demek?"
 ---
 
 ## Şenâ'at

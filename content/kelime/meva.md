@@ -1,5 +1,5 @@
 ---
-title: '"Me'vâ" ne demek?'
+title: "\"Me'vâ\" ne demek?"
 ---
 
 ## Me'vâ

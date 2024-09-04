@@ -1,5 +1,5 @@
 ---
-title: '"Mel'anet" ne demek?'
+title: "\"Mel'anet\" ne demek?"
 ---
 
 ## Mel'anet

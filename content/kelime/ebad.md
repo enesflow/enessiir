@@ -1,5 +1,5 @@
 ---
-title: '"Eb'âd" ne demek?'
+title: "\"Eb'âd\" ne demek?"
 ---
 
 ## Eb'âd

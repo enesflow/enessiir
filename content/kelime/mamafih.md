@@ -1,5 +1,5 @@
 ---
-title: '"Ma'amâfih" ne demek?'
+title: "\"Ma'amâfih\" ne demek?"
 ---
 
 ## Ma'amâfih

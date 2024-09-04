@@ -1,5 +1,5 @@
 ---
-title: '"Bu'd" ne demek?'
+title: "\"Bu'd\" ne demek?"
 ---
 
 ## Bu'd
