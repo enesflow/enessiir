@@ -1,6 +1,7 @@
 import { Translation } from "./definition"
 
 export default {
+  lastModified: "Last modified",
   propertyDefaults: {
     title: "Untitled",
     description: "No description provided",

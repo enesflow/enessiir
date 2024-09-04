@@ -5,6 +5,7 @@ export const LAST_MODIFIED_TR = "Cedîden ta’dîl"
 export const LAST_MODIFIED_TR_SHORT = "Ct"
 
 export default {
+  lastModified: "Cedîden ta’dîl",
   propertyDefaults: {
     title: "Nâm-ı Meçhûl",
     description: "İzâh verilmemiş",

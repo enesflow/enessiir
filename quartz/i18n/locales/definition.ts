@@ -17,6 +17,7 @@ export interface CalloutTranslation {
 }
 
 export interface Translation {
+  lastModified: string
   propertyDefaults: {
     title: string
     description: string
