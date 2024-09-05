@@ -24,7 +24,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      "Enes Sözlük 📕": "https://siir.enesin.xyz",
+      "Enes Sözlük 📕": "https://sozluk.enesin.xyz",
       "Github 🐙": "https://github.com/enesflow/enessiir",
     },
   }),
