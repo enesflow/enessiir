@@ -1,5 +1,5 @@
 ---
-title: kendigokkubbemiz
+title: Kendi Gök Kubbemiz
 ---
 
 Bir [[sair/yahyakemal|Yahyâ Kemâl Beyatlı]] kitabı
