@@ -106,3 +106,6 @@ Orda gecelerim, uzanır beklerim
 Sevgilim, sevgilim, hayatım, gelinim  
 O azgın sahildeki,  
 Yattığın yerde seni…
+
+## Mümâsil Şiirler
+[[siir/nazar|Yahyâ Kemâl - Nazar]]
