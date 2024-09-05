@@ -13,3 +13,4 @@ title: Yahyâ Kemâl Beyatlı
 
 ## Kitapları
 - [[kitap/eskisiirinruzgariyle|Eski Şiirin Rüzgârıyle]]
+- [[kitap/kendigokkubbemiz|Kendi Gök Kubbemiz]]
