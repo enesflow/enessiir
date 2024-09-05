@@ -31,3 +31,6 @@ Bana kalacaksın yine son günü.
 Ben mezarla sırdaş olur, beklerim.
 Varılmaz hayale işaret diye,
 Toprağında bir taş olur, beklerim...
+
+## Mümâsil Şiirler
+[Hide If You Want to Hide - The Cedars](https://lyricstranslate.com/en/cedars-hide-if-you-want-hide-lyrics)
