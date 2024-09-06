@@ -34,7 +34,7 @@ Hâkān-ı Rûm [[kelime/lesker#Leşker|leşker]]i yaklaştığın görüp
 Aksetti her tarafta [[kelime/cibal#Cibâl|cibâl]]in [[kelime/cibah#Cibâh|cibâh]]ına
 
 [[kelime/sahra#Sahrâ|Sahrâ]]-yı Çaldıran'da gazâ vardır [[kelime/erte#Erte|erte]]ye
-Ey [[kelime/berk#Berk|berk]] müjde ver feleğin [[kelime/mihr#Mihr|mihr]] [[kelime/u|ü]] [[kelime/mah#Mâh|mâh]]ına
+Ey [[kelime/berk#Berk|berk]] müjde ver [[kelime/felek|feleğ]]in [[kelime/mihr#Mihr|mihr]] [[kelime/u|ü]] [[kelime/mah#Mâh|mâh]]ına
 
 *Meydân-ı cenge [[kelime/saye#Sâye|sâye]]-[[kelime/resan#Resân|resân]] oldu [[kelime/tug#Tuğ|tûğ]]lar  
 [[kelime/rehyab#Rehyâb|Rehyâb]]-ı [[kelime/milk#Milk|milk]]-i [[kelime/nusirevan#Nûşirevân|Nûşirevân]] oldu tûğlar*

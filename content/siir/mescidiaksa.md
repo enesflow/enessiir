@@ -17,7 +17,7 @@ Sanki bir yeraltı nehr çağlıyordu
 
 Gözlerim yollarda bekler dururum
 Nerde kardeşlerin diyordu bir ses
-İlk Kıblesi benim ulu Nebi'nin
+İlk Kıblesi benim ulu [[kelime/nebi|Nebi]]'nin
 Unuttu mu bunu acaba herkes
 
 [[kelime/burak|Burak]] dolanırdı yörelerimde
