@@ -15,3 +15,4 @@ Bir [[sair/yahyakemal|Yahyâ Kemâl]] kitabı
 - [[siir/caldiran|Çaldıran]]
 - [[siir/toplayis|Toplayış]]
 - [[siir/mercidabik|Mercidâbık]]
+- [[siir/ridaniyye|Ridâniyye]]
