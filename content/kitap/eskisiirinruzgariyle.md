@@ -16,3 +16,4 @@ Bir [[sair/yahyakemal|Yahyâ Kemâl]] kitabı
 - [[siir/toplayis|Toplayış]]
 - [[siir/mercidabik|Mercidâbık]]
 - [[siir/ridaniyye|Ridâniyye]]
+- [[siir/rihlet|Rıhlet]]
