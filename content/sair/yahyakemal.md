@@ -13,3 +13,4 @@ title: Yahyâ Kemâl
 
 ## Kitapları
 - [[kitap/eskisiirinruzgariyle|Eski Şiirin Rüzgârıyle]]
+- [[kitap/kendigokkubbemiz|Kendi Gök Kubbemiz]]
