@@ -2,7 +2,7 @@
 title: kendigokkubbemiz
 ---
 
-Bir [[sair/yahyakemal|Yahyâ Kemâl Beyatlı]] kitabı
+Bir [[sair/yahyakemal|Yahyâ Kemâl]] kitabı
 
 [Vikipedi](https://tr.wikipedia.org/wiki/Kendi_G%C3%B6k_Kubbemiz):
 > Kendi Gök Kubbemiz, Yahya Kemal Beyatlı'nın üç bölümden oluşan şiir kitabı (1961, 1963, 1969).

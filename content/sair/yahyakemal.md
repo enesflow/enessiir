@@ -1,5 +1,5 @@
 ---
-title: Yahyâ Kemâl Beyatlı
+title: Yahyâ Kemâl
 ---
 
 ![[public/beyatli.png|200]]
