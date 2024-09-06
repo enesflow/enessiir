@@ -11,10 +11,11 @@ const config: QuartzConfig = {
     pageTitle: "🕊️ Enes Şiir",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
+    /* analytics: {
       provider: "google",
       tagId: "G-J7GYX80SLJ",
-    },
+    }, */
+    analytics: null, // now this is managed by cloudflare
     locale: "tr-TR",
     baseUrl: "siir.enesin.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
