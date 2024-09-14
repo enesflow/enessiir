@@ -1,5 +1,5 @@
 ---
-title: Hasta
+title: Hasta - Mehmet Âkif Ersoy
 ---
 
 Bir [[sair/mehmetakif|Mehmet Âkif Ersoy]] şiiri

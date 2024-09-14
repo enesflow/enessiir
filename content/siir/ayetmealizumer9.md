@@ -1,5 +1,5 @@
 ---
-title: Âyet Meâli (Zümer, 9)
+title: Âyet Meâli (Zümer, 9) - Mehmet Âkif Ersoy
 ---
 
 Bir [[sair/mehmetakif|Mehmet Âkif Ersoy]] şiiri

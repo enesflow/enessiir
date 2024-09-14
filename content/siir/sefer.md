@@ -1,5 +1,5 @@
 ---
-title: Sefer
+title: Sefer - Yahyâ Kemâl
 ---
 
 Bir [[sair/yahyakemal|Yahyâ Kemâl]] şiiri

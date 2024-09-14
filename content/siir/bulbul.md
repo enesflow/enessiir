@@ -1,5 +1,5 @@
 ---
-title: Bülbül
+title: Bülbül - Mehmet Âkif Ersoy
 ---
 
 Bir [[sair/mehmetakif|Mehmet Âkif Ersoy]] şiiri

@@ -1,5 +1,5 @@
 ---
-title: Ridâniyye
+title: Ridâniyye - Yahyâ Kemâl
 ---
 Bir [[sair/yahyakemal|Yahyâ Kemâl]] şiiri
 

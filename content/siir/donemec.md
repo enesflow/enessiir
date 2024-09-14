@@ -1,5 +1,5 @@
 ---
-title: Dönemeç
+title: Dönemeç - Necip Fazıl Kısakürek
 ---
 
 Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] şiiri

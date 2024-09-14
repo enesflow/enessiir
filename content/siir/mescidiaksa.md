@@ -1,5 +1,5 @@
 ---
-title: Mescid-i Aksa
+title: Mescid-i Aksa - Mehmet Akif İnan
 ---
 
 Bir [[sair/akifinan|Mehmet Akif İnan]] şiiri

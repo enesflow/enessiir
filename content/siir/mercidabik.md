@@ -1,5 +1,5 @@
 ---
-title: Mercidâbık
+title: Mercidâbık - Yahyâ Kemâl
 ---
 Bir [[sair/yahyakemal|Yahyâ Kemâl]] şiiri
 

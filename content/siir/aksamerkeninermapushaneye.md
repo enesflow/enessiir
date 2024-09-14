@@ -1,5 +1,5 @@
 ---
-title: Akşam Erken İner Mapushâneye
+title: Akşam Erken İner Mapushâneye - Ahmed Arif
 ---
 
 Bir [[sair/ahmedarif|Ahmed Arif]] şiiri

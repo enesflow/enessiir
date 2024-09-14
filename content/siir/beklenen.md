@@ -1,5 +1,5 @@
 ---
-title: Beklenen
+title: Beklenen - Necip Fazıl Kısakürek
 ---
 
 Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] şiiri

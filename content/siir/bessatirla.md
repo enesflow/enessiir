@@ -1,5 +1,5 @@
 ---
-title: Beş Satırla
+title: Beş Satırla - Nâzım Hikmet
 ---
 
 Bir [[sair/nazimhikmet|Nâzım Hikmet]] şiiri

@@ -1,5 +1,5 @@
 ---
-title: Başlayış
+title: Başlayış - Yahyâ Kemâl
 ---
 
 Bir [[sair/yahyakemal|Yahyâ Kemâl]] şiiri

@@ -1,5 +1,5 @@
 ---
-title: Yiğitler
+title: Yiğitler - Mehmet Akif İnan
 ---
 
 Bir [[sair/akifinan|Mehmet Akif İnan]] şiiri

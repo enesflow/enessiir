@@ -1,5 +1,5 @@
 ---
-title: Kız Çocuğu
+title: Kız Çocuğu - Nâzım Hikmet
 ---
 
 Bir [[sair/nazimhikmet|Nâzım Hikmet]] şiiri

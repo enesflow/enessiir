@@ -1,5 +1,5 @@
 ---
-title: Nazar
+title: Nazar - Yahyâ Kemâl
 ---
 
 Bir [[sair/yahyakemal|Yahyâ Kemâl]] şiiri

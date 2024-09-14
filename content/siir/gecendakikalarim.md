@@ -1,5 +1,5 @@
 ---
-title: Geçen Dakikalarım
+title: Geçen Dakikalarım - Necip Fazıl Kısakürek
 ---
 
 Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] şiiri

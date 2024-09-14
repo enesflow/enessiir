@@ -1,5 +1,5 @@
 ---
-title: Tutsak
+title: Tutsak - Bülent Ecevit
 ---
 
 Bir [[sair/ecevit|Bülent Ecevit]] şiiri

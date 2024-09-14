@@ -1,5 +1,5 @@
 ---
-title: Takvimdeki Deniz
+title: Takvimdeki Deniz - Necip Fazıl Kısakürek
 ---
 
 Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] şiiri

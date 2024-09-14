@@ -1,5 +1,5 @@
 ---
-title: Hani Kurşun Sıksan Geçmez Geceden
+title: Hani Kurşun Sıksan Geçmez Geceden - Ahmed Arif
 ---
 
 Bir [[sair/ahmedarif|Ahmed Arif]] şiiri

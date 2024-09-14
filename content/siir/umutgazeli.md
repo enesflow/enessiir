@@ -1,5 +1,5 @@
 ---
-title: Umut Gazeli
+title: Umut Gazeli - Mehmet Akif İnan
 ---
 
 Bir [[sair/akifinan|Mehmet Akif İnan]] şiiri

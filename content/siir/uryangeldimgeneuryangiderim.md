@@ -1,5 +1,5 @@
 ---
-title: Üryan Geldim Gene Üryan Giderim
+title: Üryan Geldim Gene Üryan Giderim - Karacaoğlan
 ---
 
 Bir [[sair/karacaoglan|Karacaoğlan]] şiiri

@@ -1,5 +1,5 @@
 ---
-title: Bebeğe İhtar
+title: Bebeğe İhtar - Abdurrahim Karakoç
 ---
 
 Bir [[sair/abdkarakoc|Abdurrahim Karakoç]] şiiri

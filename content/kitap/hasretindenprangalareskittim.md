@@ -1,5 +1,5 @@
 ---
-title: Hasretinden Prangalar Eskittim
+title: Hasretinden Prangalar Eskittim - Ahmed Arif
 ---
 
 Bir [[sair/ahmedarif|Ahmed Arif]] kitabı

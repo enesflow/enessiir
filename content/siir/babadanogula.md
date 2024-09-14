@@ -1,5 +1,5 @@
 ---
-title: Babadan Oğula
+title: Babadan Oğula - Necip Fazıl Kısakürek
 ---
 
 Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] şiiri

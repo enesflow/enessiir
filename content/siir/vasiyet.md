@@ -1,5 +1,5 @@
 ---
-title: Vasiyet
+title: Vasiyet - Nâzım Hikmet
 ---
 
 Bir [[sair/nazimhikmet|Nâzım Hikmet]] şiiri

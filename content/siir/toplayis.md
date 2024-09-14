@@ -1,5 +1,5 @@
 ---
-title: Toplayış
+title: Toplayış - Yahyâ Kemâl
 ---
 Bir [[sair/yahyakemal|Yahyâ Kemâl]] şiiri
 

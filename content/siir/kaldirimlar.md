@@ -1,5 +1,5 @@
 ---
-title: Kaldırımlar
+title: Kaldırımlar - Necip Fazıl Kısakürek
 ---
 
 Üç [[sair/necipfazil|Necip Fazıl Kısakürek]] şiiri

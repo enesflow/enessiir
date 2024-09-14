@@ -1,5 +1,5 @@
 ---
-title: Selimnâme
+title: Selimnâme - Yahyâ Kemâl
 ---
 
 Bir [[sair/yahyakemal|Yahyâ Kemâl]] şiiri

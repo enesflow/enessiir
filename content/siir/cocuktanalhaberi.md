@@ -1,5 +1,5 @@
 ---
-title: Çocuktan Al Haberi
+title: Çocuktan Al Haberi - Hasan Hüseyin Korkmazgil
 ---
 
 Bir [[sair/korkmazgil|Hasan Hüseyin Korkmazgil]] şiiri

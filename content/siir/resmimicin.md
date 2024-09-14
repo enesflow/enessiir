@@ -1,5 +1,5 @@
 ---
-title: Resmim İçin
+title: Resmim İçin - Mehmet Âkif Ersoy
 ---
 
 Dört [[sair/mehmetakif|Mehmet Âkif Ersoy]] şiiri

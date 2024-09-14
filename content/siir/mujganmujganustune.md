@@ -1,5 +1,5 @@
 ---
-title: Müjgân Müjgân Üstüne
+title: Müjgân Müjgân Üstüne - Râsih
 ---
 
 Bir [[sair/rasih|Râsih]] şiiri

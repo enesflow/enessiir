@@ -1,5 +1,5 @@
 ---
-title: Şan
+title: Şan - Mehmet Akif İnan
 ---
 
 Bir [[sair/akifinan|Mehmet Akif İnan]] şiiri

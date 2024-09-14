@@ -1,5 +1,5 @@
 ---
-title: Yâr O Ki...
+title: Yâr O Ki... - Necip Fazıl Kısakürek
 ---
 
 Bir [[sair/necipfazil|Necip Fazıl Kısakürek]] şiiri

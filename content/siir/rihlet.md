@@ -1,5 +1,5 @@
 ---
-title: Rıhlet
+title: Rıhlet - Yahyâ Kemâl
 ---
 Bir [[sair/yahyakemal|Yahyâ Kemâl]] şiiri
 

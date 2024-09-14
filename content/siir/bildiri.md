@@ -1,5 +1,5 @@
 ---
-title: Bildiri
+title: Bildiri - Mehmet Akif İnan
 ---
 
 Bir [[sair/akifinan|Mehmet Akif İnan]] şiiri
