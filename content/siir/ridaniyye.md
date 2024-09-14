@@ -32,8 +32,8 @@ On Mısr'a bir Sinan bedel olmazdı ey kazâ
 Fevkindedir zaferden alınmış ganâimin 
 Mü'minler etti [[kelime/vahdet|vahdet]]-i İslâm'ı iğtinâm 
 
-Hem [[kelime/sark|şark]]ı hem cenûbu açan bir [[kelime/cihat|cihâd]]dan 
+Hem [[kelime/sark|şark]]ı hem cenûbu açan bir [[kelime/cihad|cihâd]]dan 
 Aksetti [[kelime/dehr|dehr]]e nâ-mütenâhî bir ihtişâm 
 
-*Hakkā ki ser-firâz-ı cihân oldu [[kelime/tug|tûğ]]lar 
+*Hakkā ki ser-firâz-ı [[kelime/cihan|cihân]] oldu [[kelime/tug|tûğ]]lar 
 Ferman-dih-î zamân ü mekân oldu tûğlar*

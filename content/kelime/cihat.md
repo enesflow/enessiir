@@ -3,7 +3,7 @@ title: '"Cihât" ne demek?'
 ---
 
 ## Cihât
-([[arapca|Arapça]] **cehd** *"çok çalışmak"*tan) İslâm nizâmını yeryüzünde hâkim kılma ve bu nizâmı savunma maksadıyle din uğrunda ve Hak yolunda yapılan savaş, [[kelime/gaza|gazâ]]
+([[arapca|Arapça]] [[kelime/cihet|cihet]]'in çoğulu) Cihetler, yönler, taraflar 
 
 ---
 *Menşei: [Kubbealtı Lugatı](https://www.lugatim.com/s/Cihât)*

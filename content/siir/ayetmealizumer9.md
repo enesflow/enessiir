@@ -21,7 +21,7 @@ Gelmezse eğer kendine millet, gidecektir!
 Zîrâ, yeni bir [[kelime/sadme|sadme]]ye artık dayanılmaz;
 Zîrâ, bu sefer uyku ölümdür: Uyanılmaz!
 
-Coşkun, koca bir sel gibi, dâim beşeriyyet,
+Coşkun, koca bir sel gibi, dâim [[kelime/beser|beşer]]iyyet,
 Müstakbele koşmakta verip seyrine şiddet.
 Dağlar, uçurumlar ona yol vermemek ister...
 Lâkin, o, ne yüksek, ne de alçak demez örter!

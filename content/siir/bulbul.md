@@ -26,7 +26,7 @@ Ağaçlar, taşlar ürpermişti, gûyâ Sûr-i Mahşerdi!
 – Eşin var, [[kelime/asiyan#Âşiyân|âşiyân]]ın var, bahârın var, ki beklerdin;
 Kıyâmetler koparmak neydi, ey bülbül nedir derdin?
 O zümrüd tahta kondun, bir [[kelime/semavi#Semâvî|semâvî]] saltanat kurdun;
-Cihânın yurdu hep çiğnense, çiğnenmez senin yurdun.
+[[kelime/cihan|Cihân]]ın yurdu hep çiğnense, çiğnenmez senin yurdun.
 Bugün bir yemyeşil vâdî, yarın bir kıpkızıl [[kelime/gulsen#Gülşen|gülşen]],
 Gezersin, [[kelime/hanuman#Hânümân|hânümân]]ın şen, için şen, kâinâtın şen.
 [[kelime/hazan#Hazan|Hazan]]sız bir zemîn isterse, şâyed rûh-i [[kelime/ser#Ser|ser]]-[[kelime/baz#Bâz|bâz]]ın ,
@@ -40,7 +40,7 @@ Asırlar var ki, aydınlık nedir, hiç bilmez [[kelime/afak#Âfâk|âfâk]]ım!
 Tesellîden nasîbim yok, hazân ağlar bahârımda;
 Bugün bir hânümansız serserîyim öz diyârımda!
 Ne hüsrandır ki: [[kelime/sark#Şark|Şark]]'ın ben vefâsız, kansız evlâdı,
-[[kelime/serapa#Serâpâ|Serâpâ]] [[kelime/garb#Garb|Garb]]'a çiğnettim de çıktım [[kelime/hak#Hâk|hâk]]-i ecdâdı!
+[[kelime/serapa#Serâpâ|Serâpâ]] [[kelime/garb#Garb|Garb]]'a çiğnettim de çıktım [[kelime/hak#Hâk|hâk]]-i [[kelime/ecdad|ecdâd]]ı!
 Hayâlimden geçerken şimdi, fikrim [[kelime/hercumerc#Hercümerc|hercümerc]] oldu,
 Salâhaddîn-i Eyyûbî'lerin Fâtih'lerin yurdu.
 Ne zillettir ki: [[kelime/nakus#Nâkûs|Nâkûs]] inlesin beyni'nde Osman'ın;

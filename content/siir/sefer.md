@@ -47,7 +47,7 @@ Ruhlar yoldaş oldu cihan pâdişâhına*
 *Gazi askerler görünce sürerken at
 Boyun eğdiler aslanlar gibi sert bakışına*
 
-*Baştan başa [[kelime/cihat|cihat]] kılıcı kuşanmış ümmetin
+*Baştan başa [[kelime/cihad|cihad]] kılıcı kuşanmış ümmetin
 Oturanı budur âlemi koruyanınların tahtına*
 
 *Dize getirip tahtına doğuyla batıyı

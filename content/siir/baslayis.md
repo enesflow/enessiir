@@ -10,7 +10,7 @@ Bir [[sair/yahyakemal|Yahyâ Kemâl]] şiiri
 
 -1514-
 [[kelime/eflak#Eflâk|Eflâk]]den o [[kelime/dem#Dem|dem]] ki [[kelime/peyam#Peyâm|peyâm]]-ı kader gelür
-[[kelime/gus#Gûş|Gûş]]-î cihâna [[kelime/velvele#Velvele|velvele]]-î [[kelime/baluper#Bâl ü per|bâl ü per]] gelür
+[[kelime/gus#Gûş|Gûş]]-î [[kelime/cihan|cihân]]a [[kelime/velvele#Velvele|velvele]]-î [[kelime/baluper#Bâl ü per|bâl ü per]] gelür
 
 Devr-î [[kelime/futuh#Fütûh|fütûh]]u Sûr-ı Sirâfîl müjdeler
 Hak'dan nizâm-ı âlemi te'mîne er gelür

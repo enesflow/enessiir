@@ -32,7 +32,7 @@ Azdır [[kelime/seramedan|serâmedân]]-ı [[kelime/kelam|kelâm]]ın [[kelime/s
 Rehber [[kelime/imamiazam|İmâm-ı Âzam]]'ı bilmiş [[kelime/asair|aşâir]]in
 [[kelime/idris|İdrîs]] asâletinde gerek [[kelime/reh|reh]]-[[kelime/numa|nümâ]]ları
 
-Tevhîde koşmuş [[kelime/ehl|ehl]]-i [[kelime/cihat|cihâd]]ın birer birer
+Tevhîde koşmuş [[kelime/ehl|ehl]]-i [[kelime/cihad|cihâd]]ın birer birer
 [[kelime/zer|Zer]]-hatla [[kelime/tak|tâk]]-ı [[kelime/ars|arş]]a yazılsun [[kelime/gaza|gazâ]]ları
 
 *Her yerde [[kelime/remz|remz]]-i [[kelime/emn|emn]] ü [[kelime/eman|emân]] oldu [[kelime/tug|tûğ]]lar

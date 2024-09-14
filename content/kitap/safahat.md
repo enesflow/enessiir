@@ -21,6 +21,8 @@ Bir [[sair/mehmetakif|Mehmet Âkif Ersoy]] kitabı
 - [[siir/ayetmealizumer9|Âyet Meâli (Zümer, 9)]]
 ### Hâtıralar
 - [[siir/uyan|Uyan!]]
+## Âsım
+- [[siir/asim|Âsım]]
 ### Gölgeler
 - [[siir/bulbul|Bülbül]]
 - [[siir/resmimicin|Resmim İçin]]

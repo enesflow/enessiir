@@ -52,7 +52,7 @@ Tâlih göründü bize sol kolda pek yaman*
 *Boğuldu kana Rûmeli Beylerbeyi'yle asker
 Üç Malkoçoğlu fedâ etti bir bir üç can*
 
-*Uğrunda her [[kelime/cihat|cihad]]a atılmış kararlı askerin
+*Uğrunda her [[kelime/cihad|cihad]]a atılmış kararlı askerin
 Hak ettiği bu felâket midir ey Yardım Umulan*
 
 *Her yanda kan içinde bu kargaşadan beri
